@@ -1,4 +1,4 @@
-# Pokemon-Go-Full-Rater
+# Pokemon Go Full Rater
 ## Install
 ```
 npm install -g bower
