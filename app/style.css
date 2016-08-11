@@ -1,0 +1,92 @@
+table {
+  border-spacing: 0;
+  margin: 5% auto;
+}
+
+table th,
+table td {
+  padding: 5px;
+  text-align: center;
+}
+
+table tr:nth-child(even) {
+  background-color: #616161; /* Grey 700 */
+}
+
+table tr:nth-child(odd) {
+  background-color: #424242; /* Grey 800 */
+}
+
+table tr:first-child {
+  background-color: #212121; /* Grey 900 */
+}
+
+.bug {
+  background-color: #8bc34a; /* Light Green */
+}
+
+.dark {
+  background-color: #000; /* Black */
+}
+
+.dragon {
+  background-color: #673ab7; /* Deep Purple */
+}
+
+.electric {
+  background-color: #ffeb3b; /* Yellow */
+  color: #333;
+}
+
+.fairy {
+  background-color: #ff80ab; /* Pink A100 */
+}
+
+.fighting {
+  background-color: #f44336; /* Red */
+}
+
+.fire {
+  background-color: #ff5722; /* Deep Orange */
+}
+
+.flying {
+  background-color: #3f51b5; /* Indigo */
+}
+
+.ghost {
+  background-color: #607d8b; /* Blue Grey */
+}
+
+.grass {
+  background-color: #4caf50; /* Green */
+}
+
+.ground {
+  background-color: #cddc39; /* Lime */
+  color: #333;
+}
+
+.ice {
+  background-color: #00bcd4; /* Cyan */
+}
+
+.poison {
+  background-color: #9c27b0; /* Purple */
+}
+
+.psychic {
+  background-color: #e91e63; /* Pink */
+}
+
+.rock {
+  background-color: #795548; /* Brown */
+}
+
+.steel {
+  background-color: #9e9e9e; /* Grey */
+}
+
+.water {
+  background-color: #2196f3; /* Blue */
+}

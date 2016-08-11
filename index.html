@@ -1,12 +1,52 @@
 <!DOCTYPE html>
-<html data-ng-app="app">
+<html lang="en" ng-app="app">
   <head>
+
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Pokemon Go Full Rater</title>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
-    <script src="app.js"></script>
+
+    <link rel="stylesheet" href="./bower_components/angular-material/angular-material.min.css">
+    <link rel="stylesheet" href="./app/style.css">
+
+    <script src="./bower_components/angular/angular.min.js"></script>
+    <script src="./bower_components/angular-animate/angular-animate.min.js"></script>
+    <script src="./bower_components/angular-aria/angular-aria.min.js"></script>
+    <script src="./bower_components/angular-messages/angular-messages.min.js"></script>
+    <script src="./bower_components/angular-material/angular-material.min.js"></script>
+    <script src="./app/app.js"></script>
+    <script src="./app/mainController.js"></script>
+
   </head>
-  <body>
-    <h1>{{test}}</h1>
+
+  <body ng-controller="MainController as main" ng-cloak>
+
+    <table>
+      <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Type</th>
+        <th>PW</th>
+        <th>StaminaLossScalar</th>
+        <th>HealScalar</th>
+        <th>Duration (ms)</th>
+        <th>Dodge Window (ms)</th>
+        <th>Crit%</th>
+        <th>NRG Cost</th>
+      </tr>
+      <tr ng-repeat="value in main.chargedMoves">
+        <td>{{value.ID}}</td>
+        <td>{{value.Name}}</td>
+        <td class="{{value.Type.toLowerCase()}}">{{value.Type}}</td>
+        <td>{{value.PW}}</td>
+        <td>{{value.StaminaLossScalar}}</td>
+        <td>{{value.HealScalar}}</td>
+        <td>{{value.Duration}}</td>
+        <td>{{value.Dodge_Window}}</td>
+        <td>{{value.Crit}}</td>
+        <td>{{value.NRG_Cost}}</td>
+      </tr>
+    </table>
+
   </body>
 </html>
