@@ -1,0 +1,1209 @@
+[{
+    "Name": "Bulbasaur",
+    "#": 1,
+    "HP Ratio": 90,
+    "Attack Ratio": 126,
+    "Defense Ratio": 126,
+    "Min CP Cap": 838,
+    "Max CP Cap": 1072
+}, {
+    "Name": "Ivysaur",
+    "#": 2,
+    "HP Ratio": 120,
+    "Attack Ratio": 156,
+    "Defense Ratio": 158,
+    "Min CP Cap": 1342,
+    "Max CP Cap": 1632
+}, {
+    "Name": "Venusaur",
+    "#": 3,
+    "HP Ratio": 160,
+    "Attack Ratio": 198,
+    "Defense Ratio": 200,
+    "Min CP Cap": 2212,
+    "Max CP Cap": 2580
+}, {
+    "Name": "Charmander",
+    "#": 4,
+    "HP Ratio": 78,
+    "Attack Ratio": 128,
+    "Defense Ratio": 108,
+    "Min CP Cap": 734,
+    "Max CP Cap": 955
+}, {
+    "Name": "Charmeleon",
+    "#": 5,
+    "HP Ratio": 116,
+    "Attack Ratio": 160,
+    "Defense Ratio": 140,
+    "Min CP Cap": 1273,
+    "Max CP Cap": 1557
+}, {
+    "Name": "Charizard",
+    "#": 6,
+    "HP Ratio": 156,
+    "Attack Ratio": 212,
+    "Defense Ratio": 182,
+    "Min CP Cap": 2231,
+    "Max CP Cap": 2602
+}, {
+    "Name": "Squirtle",
+    "#": 7,
+    "HP Ratio": 88,
+    "Attack Ratio": 112,
+    "Defense Ratio": 142,
+    "Min CP Cap": 782,
+    "Max CP Cap": 1009
+}, {
+    "Name": "Wartortle",
+    "#": 8,
+    "HP Ratio": 118,
+    "Attack Ratio": 144,
+    "Defense Ratio": 176,
+    "Min CP Cap": 1296,
+    "Max CP Cap": 1583
+}, {
+    "Name": "Blastoise",
+    "#": 9,
+    "HP Ratio": 158,
+    "Attack Ratio": 186,
+    "Defense Ratio": 222,
+    "Min CP Cap": 2176,
+    "Max CP Cap": 2542
+}, {
+    "Name": "Caterpie",
+    "#": 10,
+    "HP Ratio": 90,
+    "Attack Ratio": 62,
+    "Defense Ratio": 66,
+    "Min CP Cap": 298,
+    "Max CP Cap": 444
+}, {
+    "Name": "Metapod",
+    "#": 11,
+    "HP Ratio": 100,
+    "Attack Ratio": 56,
+    "Defense Ratio": 86,
+    "Min CP Cap": 324,
+    "Max CP Cap": 478
+}, {
+    "Name": "Butterfree",
+    "#": 12,
+    "HP Ratio": 120,
+    "Attack Ratio": 144,
+    "Defense Ratio": 144,
+    "Min CP Cap": 1182,
+    "Max CP Cap": 1455
+}, {
+    "Name": "Weedle",
+    "#": 13,
+    "HP Ratio": 80,
+    "Attack Ratio": 68,
+    "Defense Ratio": 64,
+    "Min CP Cap": 304,
+    "Max CP Cap": 449
+}, {
+    "Name": "Kakuna",
+    "#": 14,
+    "HP Ratio": 90,
+    "Attack Ratio": 62,
+    "Defense Ratio": 82,
+    "Min CP Cap": 333,
+    "Max CP Cap": 485
+}, {
+    "Name": "Beedrill",
+    "#": 15,
+    "HP Ratio": 130,
+    "Attack Ratio": 144,
+    "Defense Ratio": 130,
+    "Min CP Cap": 1169,
+    "Max CP Cap": 1440
+}, {
+    "Name": "Pidgey",
+    "#": 16,
+    "HP Ratio": 80,
+    "Attack Ratio": 94,
+    "Defense Ratio": 90,
+    "Min CP Cap": 498,
+    "Max CP Cap": 680
+}, {
+    "Name": "Pidgeotto",
+    "#": 17,
+    "HP Ratio": 126,
+    "Attack Ratio": 126,
+    "Defense Ratio": 122,
+    "Min CP Cap": 976,
+    "Max CP Cap": 1224
+}, {
+    "Name": "Pidgeot",
+    "#": 18,
+    "HP Ratio": 166,
+    "Attack Ratio": 170,
+    "Defense Ratio": 166,
+    "Min CP Cap": 1763,
+    "Max CP Cap": 2091
+}, {
+    "Name": "Rattata",
+    "#": 19,
+    "HP Ratio": 60,
+    "Attack Ratio": 92,
+    "Defense Ratio": 86,
+    "Min CP Cap": 413,
+    "Max CP Cap": 582
+}, {
+    "Name": "Raticate",
+    "#": 20,
+    "HP Ratio": 110,
+    "Attack Ratio": 146,
+    "Defense Ratio": 150,
+    "Min CP Cap": 1171,
+    "Max CP Cap": 1444
+}, {
+    "Name": "Spearow",
+    "#": 21,
+    "HP Ratio": 80,
+    "Attack Ratio": 102,
+    "Defense Ratio": 78,
+    "Min CP Cap": 503,
+    "Max CP Cap": 687
+}, {
+    "Name": "Fearow",
+    "#": 22,
+    "HP Ratio": 130,
+    "Attack Ratio": 168,
+    "Defense Ratio": 146,
+    "Min CP Cap": 1446,
+    "Max CP Cap": 1746
+}, {
+    "Name": "Ekans",
+    "#": 23,
+    "HP Ratio": 70,
+    "Attack Ratio": 112,
+    "Defense Ratio": 112,
+    "Min CP Cap": 619,
+    "Max CP Cap": 824
+}, {
+    "Name": "Arbok",
+    "#": 24,
+    "HP Ratio": 120,
+    "Attack Ratio": 166,
+    "Defense Ratio": 166,
+    "Min CP Cap": 1463,
+    "Max CP Cap": 1767
+}, {
+    "Name": "Pikachu",
+    "#": 25,
+    "HP Ratio": 70,
+    "Attack Ratio": 124,
+    "Defense Ratio": 108,
+    "Min CP Cap": 673,
+    "Max CP Cap": 888
+}, {
+    "Name": "Raichu",
+    "#": 26,
+    "HP Ratio": 120,
+    "Attack Ratio": 200,
+    "Defense Ratio": 154,
+    "Min CP Cap": 1698,
+    "Max CP Cap": 2028
+}, {
+    "Name": "Sandshrew",
+    "#": 27,
+    "HP Ratio": 100,
+    "Attack Ratio": 90,
+    "Defense Ratio": 114,
+    "Min CP Cap": 600,
+    "Max CP Cap": 799
+}, {
+    "Name": "Sandslash",
+    "#": 28,
+    "HP Ratio": 150,
+    "Attack Ratio": 150,
+    "Defense Ratio": 172,
+    "Min CP Cap": 1505,
+    "Max CP Cap": 1810
+}, {
+    "Name": "Nidoran F",
+    "#": 29,
+    "HP Ratio": 110,
+    "Attack Ratio": 100,
+    "Defense Ratio": 104,
+    "Min CP Cap": 668,
+    "Max CP Cap": 876
+}, {
+    "Name": "Nidorina",
+    "#": 30,
+    "HP Ratio": 140,
+    "Attack Ratio": 132,
+    "Defense Ratio": 136,
+    "Min CP Cap": 1138,
+    "Max CP Cap": 1405
+}, {
+    "Name": "Nidoqueen",
+    "#": 31,
+    "HP Ratio": 180,
+    "Attack Ratio": 184,
+    "Defense Ratio": 190,
+    "Min CP Cap": 2125,
+    "Max CP Cap": 2485
+}, {
+    "Name": "Nidoran M",
+    "#": 32,
+    "HP Ratio": 92,
+    "Attack Ratio": 110,
+    "Defense Ratio": 94,
+    "Min CP Cap": 639,
+    "Max CP Cap": 843
+}, {
+    "Name": "Nidorino",
+    "#": 33,
+    "HP Ratio": 122,
+    "Attack Ratio": 142,
+    "Defense Ratio": 128,
+    "Min CP Cap": 1108,
+    "Max CP Cap": 1372
+}, {
+    "Name": "Nidoking",
+    "#": 34,
+    "HP Ratio": 162,
+    "Attack Ratio": 204,
+    "Defense Ratio": 170,
+    "Min CP Cap": 2114,
+    "Max CP Cap": 2475
+}, {
+    "Name": "Clefairy",
+    "#": 35,
+    "HP Ratio": 140,
+    "Attack Ratio": 116,
+    "Defense Ratio": 124,
+    "Min CP Cap": 955,
+    "Max CP Cap": 1201
+}, {
+    "Name": "Clefable",
+    "#": 36,
+    "HP Ratio": 190,
+    "Attack Ratio": 178,
+    "Defense Ratio": 178,
+    "Min CP Cap": 2045,
+    "Max CP Cap": 2398
+}, {
+    "Name": "Vulpix",
+    "#": 37,
+    "HP Ratio": 76,
+    "Attack Ratio": 106,
+    "Defense Ratio": 118,
+    "Min CP Cap": 627,
+    "Max CP Cap": 831
+}, {
+    "Name": "Ninetales",
+    "#": 38,
+    "HP Ratio": 146,
+    "Attack Ratio": 176,
+    "Defense Ratio": 194,
+    "Min CP Cap": 1850,
+    "Max CP Cap": 2188
+}, {
+    "Name": "Jigglypuff",
+    "#": 39,
+    "HP Ratio": 230,
+    "Attack Ratio": 98,
+    "Defense Ratio": 54,
+    "Min CP Cap": 682,
+    "Max CP Cap": 918
+}, {
+    "Name": "Wigglytuff",
+    "#": 40,
+    "HP Ratio": 280,
+    "Attack Ratio": 168,
+    "Defense Ratio": 108,
+    "Min CP Cap": 1825,
+    "Max CP Cap": 2177
+}, {
+    "Name": "Zubat",
+    "#": 41,
+    "HP Ratio": 80,
+    "Attack Ratio": 88,
+    "Defense Ratio": 90,
+    "Min CP Cap": 466,
+    "Max CP Cap": 643
+}, {
+    "Name": "Golbat",
+    "#": 42,
+    "HP Ratio": 150,
+    "Attack Ratio": 164,
+    "Defense Ratio": 164,
+    "Min CP Cap": 1607,
+    "Max CP Cap": 1921
+}, {
+    "Name": "Oddish",
+    "#": 43,
+    "HP Ratio": 90,
+    "Attack Ratio": 134,
+    "Defense Ratio": 130,
+    "Min CP Cap": 905,
+    "Max CP Cap": 1148
+}, {
+    "Name": "Gloom",
+    "#": 44,
+    "HP Ratio": 120,
+    "Attack Ratio": 162,
+    "Defense Ratio": 158,
+    "Min CP Cap": 1393,
+    "Max CP Cap": 1689
+}, {
+    "Name": "Vileplume",
+    "#": 45,
+    "HP Ratio": 150,
+    "Attack Ratio": 202,
+    "Defense Ratio": 190,
+    "Min CP Cap": 2130,
+    "Max CP Cap": 2493
+}, {
+    "Name": "Paras",
+    "#": 46,
+    "HP Ratio": 70,
+    "Attack Ratio": 122,
+    "Defense Ratio": 120,
+    "Min CP Cap": 698,
+    "Max CP Cap": 917
+}, {
+    "Name": "Parasect",
+    "#": 47,
+    "HP Ratio": 120,
+    "Attack Ratio": 162,
+    "Defense Ratio": 170,
+    "Min CP Cap": 1445,
+    "Max CP Cap": 1747
+}, {
+    "Name": "Venonat",
+    "#": 48,
+    "HP Ratio": 120,
+    "Attack Ratio": 108,
+    "Defense Ratio": 118,
+    "Min CP Cap": 803,
+    "Max CP Cap": 1029
+}, {
+    "Name": "Venomoth",
+    "#": 49,
+    "HP Ratio": 140,
+    "Attack Ratio": 172,
+    "Defense Ratio": 154,
+    "Min CP Cap": 1577,
+    "Max CP Cap": 1890
+}, {
+    "Name": "Diglett",
+    "#": 50,
+    "HP Ratio": 20,
+    "Attack Ratio": 108,
+    "Defense Ratio": 86,
+    "Min CP Cap": 280,
+    "Max CP Cap": 457
+}, {
+    "Name": "Dugtrio",
+    "#": 51,
+    "HP Ratio": 70,
+    "Attack Ratio": 148,
+    "Defense Ratio": 140,
+    "Min CP Cap": 915,
+    "Max CP Cap": 1169
+}, {
+    "Name": "Meowth",
+    "#": 52,
+    "HP Ratio": 80,
+    "Attack Ratio": 104,
+    "Defense Ratio": 94,
+    "Min CP Cap": 563,
+    "Max CP Cap": 756
+}, {
+    "Name": "Persian",
+    "#": 53,
+    "HP Ratio": 130,
+    "Attack Ratio": 156,
+    "Defense Ratio": 146,
+    "Min CP Cap": 1342,
+    "Max CP Cap": 1632
+}, {
+    "Name": "Psyduck",
+    "#": 54,
+    "HP Ratio": 100,
+    "Attack Ratio": 132,
+    "Defense Ratio": 112,
+    "Min CP Cap": 873,
+    "Max CP Cap": 1110
+}, {
+    "Name": "Golduck",
+    "#": 55,
+    "HP Ratio": 160,
+    "Attack Ratio": 194,
+    "Defense Ratio": 176,
+    "Min CP Cap": 2033,
+    "Max CP Cap": 2387
+}, {
+    "Name": "Mankey",
+    "#": 56,
+    "HP Ratio": 80,
+    "Attack Ratio": 122,
+    "Defense Ratio": 96,
+    "Min CP Cap": 668,
+    "Max CP Cap": 879
+}, {
+    "Name": "Primeape",
+    "#": 57,
+    "HP Ratio": 130,
+    "Attack Ratio": 178,
+    "Defense Ratio": 150,
+    "Min CP Cap": 1552,
+    "Max CP Cap": 1865
+}, {
+    "Name": "Growlithe",
+    "#": 58,
+    "HP Ratio": 110,
+    "Attack Ratio": 156,
+    "Defense Ratio": 110,
+    "Min CP Cap": 1072,
+    "Max CP Cap": 1335
+}, {
+    "Name": "Arcanine",
+    "#": 59,
+    "HP Ratio": 180,
+    "Attack Ratio": 230,
+    "Defense Ratio": 180,
+    "Min CP Cap": 2586,
+    "Max CP Cap": 2984
+}, {
+    "Name": "Poliwag",
+    "#": 60,
+    "HP Ratio": 80,
+    "Attack Ratio": 108,
+    "Defense Ratio": 98,
+    "Min CP Cap": 597,
+    "Max CP Cap": 796
+}, {
+    "Name": "Poliwhirl",
+    "#": 61,
+    "HP Ratio": 130,
+    "Attack Ratio": 132,
+    "Defense Ratio": 132,
+    "Min CP Cap": 1080,
+    "Max CP Cap": 1340
+}, {
+    "Name": "Poliwrath",
+    "#": 62,
+    "HP Ratio": 180,
+    "Attack Ratio": 180,
+    "Defense Ratio": 202,
+    "Min CP Cap": 2144,
+    "Max CP Cap": 2505
+}, {
+    "Name": "Abra",
+    "#": 63,
+    "HP Ratio": 50,
+    "Attack Ratio": 110,
+    "Defense Ratio": 76,
+    "Min CP Cap": 424,
+    "Max CP Cap": 600
+}, {
+    "Name": "Kadabra",
+    "#": 64,
+    "HP Ratio": 80,
+    "Attack Ratio": 150,
+    "Defense Ratio": 112,
+    "Min CP Cap": 887,
+    "Max CP Cap": 1132
+}, {
+    "Name": "Alakazam",
+    "#": 65,
+    "HP Ratio": 110,
+    "Attack Ratio": 186,
+    "Defense Ratio": 152,
+    "Min CP Cap": 1502,
+    "Max CP Cap": 1814
+}, {
+    "Name": "Machop",
+    "#": 66,
+    "HP Ratio": 140,
+    "Attack Ratio": 118,
+    "Defense Ratio": 96,
+    "Min CP Cap": 854,
+    "Max CP Cap": 1090
+}, {
+    "Name": "Machoke",
+    "#": 67,
+    "HP Ratio": 160,
+    "Attack Ratio": 154,
+    "Defense Ratio": 144,
+    "Min CP Cap": 1460,
+    "Max CP Cap": 1761
+}, {
+    "Name": "Machamp",
+    "#": 68,
+    "HP Ratio": 180,
+    "Attack Ratio": 198,
+    "Defense Ratio": 180,
+    "Min CP Cap": 2226,
+    "Max CP Cap": 2594
+}, {
+    "Name": "Bellsprout",
+    "#": 69,
+    "HP Ratio": 100,
+    "Attack Ratio": 158,
+    "Defense Ratio": 78,
+    "Min CP Cap": 872,
+    "Max CP Cap": 1117
+}, {
+    "Name": "Weepinbell",
+    "#": 70,
+    "HP Ratio": 130,
+    "Attack Ratio": 190,
+    "Defense Ratio": 110,
+    "Min CP Cap": 1419,
+    "Max CP Cap": 1724
+}, {
+    "Name": "Victreebel",
+    "#": 71,
+    "HP Ratio": 160,
+    "Attack Ratio": 222,
+    "Defense Ratio": 152,
+    "Min CP Cap": 2162,
+    "Max CP Cap": 2531
+}, {
+    "Name": "Tentacool",
+    "#": 72,
+    "HP Ratio": 80,
+    "Attack Ratio": 106,
+    "Defense Ratio": 136,
+    "Min CP Cap": 691,
+    "Max CP Cap": 905
+}, {
+    "Name": "Tentacruel",
+    "#": 73,
+    "HP Ratio": 160,
+    "Attack Ratio": 170,
+    "Defense Ratio": 196,
+    "Min CP Cap": 1880,
+    "Max CP Cap": 2220
+}, {
+    "Name": "Geodude",
+    "#": 74,
+    "HP Ratio": 80,
+    "Attack Ratio": 106,
+    "Defense Ratio": 118,
+    "Min CP Cap": 643,
+    "Max CP Cap": 849
+}, {
+    "Name": "Graveler",
+    "#": 75,
+    "HP Ratio": 110,
+    "Attack Ratio": 142,
+    "Defense Ratio": 156,
+    "Min CP Cap": 1162,
+    "Max CP Cap": 1434
+}, {
+    "Name": "Golem",
+    "#": 76,
+    "HP Ratio": 160,
+    "Attack Ratio": 176,
+    "Defense Ratio": 198,
+    "Min CP Cap": 1957,
+    "Max CP Cap": 2303
+}, {
+    "Name": "Ponyta",
+    "#": 77,
+    "HP Ratio": 100,
+    "Attack Ratio": 168,
+    "Defense Ratio": 138,
+    "Min CP Cap": 1233,
+    "Max CP Cap": 1516
+}, {
+    "Name": "Rapidash",
+    "#": 78,
+    "HP Ratio": 130,
+    "Attack Ratio": 200,
+    "Defense Ratio": 170,
+    "Min CP Cap": 1857,
+    "Max CP Cap": 2199
+}, {
+    "Name": "Slowpoke",
+    "#": 79,
+    "HP Ratio": 180,
+    "Attack Ratio": 110,
+    "Defense Ratio": 110,
+    "Min CP Cap": 967,
+    "Max CP Cap": 1219
+}, {
+    "Name": "Slowbro",
+    "#": 80,
+    "HP Ratio": 190,
+    "Attack Ratio": 184,
+    "Defense Ratio": 198,
+    "Min CP Cap": 2229,
+    "Max CP Cap": 2597
+}, {
+    "Name": "Magnemite",
+    "#": 81,
+    "HP Ratio": 50,
+    "Attack Ratio": 128,
+    "Defense Ratio": 138,
+    "Min CP Cap": 664,
+    "Max CP Cap": 891
+}, {
+    "Name": "Magneton",
+    "#": 82,
+    "HP Ratio": 100,
+    "Attack Ratio": 186,
+    "Defense Ratio": 180,
+    "Min CP Cap": 1559,
+    "Max CP Cap": 1880
+}, {
+    "Name": "Farfetch'd",
+    "#": 83,
+    "HP Ratio": 104,
+    "Attack Ratio": 138,
+    "Defense Ratio": 132,
+    "Min CP Cap": 1010,
+    "Max CP Cap": 1264
+}, {
+    "Name": "Doduo",
+    "#": 84,
+    "HP Ratio": 70,
+    "Attack Ratio": 126,
+    "Defense Ratio": 96,
+    "Min CP Cap": 645,
+    "Max CP Cap": 855
+}, {
+    "Name": "Dodrio",
+    "#": 85,
+    "HP Ratio": 120,
+    "Attack Ratio": 182,
+    "Defense Ratio": 150,
+    "Min CP Cap": 1525,
+    "Max CP Cap": 1836
+}, {
+    "Name": "Seel",
+    "#": 86,
+    "HP Ratio": 130,
+    "Attack Ratio": 104,
+    "Defense Ratio": 138,
+    "Min CP Cap": 870,
+    "Max CP Cap": 1107
+}, {
+    "Name": "Dewgong",
+    "#": 87,
+    "HP Ratio": 180,
+    "Attack Ratio": 156,
+    "Defense Ratio": 192,
+    "Min CP Cap": 1811,
+    "Max CP Cap": 2146
+}, {
+    "Name": "Grimer",
+    "#": 88,
+    "HP Ratio": 160,
+    "Attack Ratio": 124,
+    "Defense Ratio": 110,
+    "Min CP Cap": 1027,
+    "Max CP Cap": 1284
+}, {
+    "Name": "Muk",
+    "#": 89,
+    "HP Ratio": 210,
+    "Attack Ratio": 180,
+    "Defense Ratio": 188,
+    "Min CP Cap": 2234,
+    "Max CP Cap": 2603
+}, {
+    "Name": "Shellder",
+    "#": 90,
+    "HP Ratio": 60,
+    "Attack Ratio": 120,
+    "Defense Ratio": 112,
+    "Min CP Cap": 614,
+    "Max CP Cap": 823
+}, {
+    "Name": "Cloyster",
+    "#": 91,
+    "HP Ratio": 100,
+    "Attack Ratio": 196,
+    "Defense Ratio": 196,
+    "Min CP Cap": 1714,
+    "Max CP Cap": 2053
+}, {
+    "Name": "Gastly",
+    "#": 92,
+    "HP Ratio": 60,
+    "Attack Ratio": 136,
+    "Defense Ratio": 82,
+    "Min CP Cap": 596,
+    "Max CP Cap": 804
+}, {
+    "Name": "Haunter",
+    "#": 93,
+    "HP Ratio": 90,
+    "Attack Ratio": 172,
+    "Defense Ratio": 118,
+    "Min CP Cap": 1107,
+    "Max CP Cap": 1380
+}, {
+    "Name": "Gengar",
+    "#": 94,
+    "HP Ratio": 120,
+    "Attack Ratio": 204,
+    "Defense Ratio": 156,
+    "Min CP Cap": 1743,
+    "Max CP Cap": 2078
+}, {
+    "Name": "Onix",
+    "#": 95,
+    "HP Ratio": 70,
+    "Attack Ratio": 90,
+    "Defense Ratio": 186,
+    "Min CP Cap": 641,
+    "Max CP Cap": 857
+}, {
+    "Name": "Drowzee",
+    "#": 96,
+    "HP Ratio": 120,
+    "Attack Ratio": 104,
+    "Defense Ratio": 140,
+    "Min CP Cap": 842,
+    "Max CP Cap": 1075
+}, {
+    "Name": "Hypno",
+    "#": 97,
+    "HP Ratio": 170,
+    "Attack Ratio": 162,
+    "Defense Ratio": 196,
+    "Min CP Cap": 1847,
+    "Max CP Cap": 2184
+}, {
+    "Name": "Krabby",
+    "#": 98,
+    "HP Ratio": 60,
+    "Attack Ratio": 116,
+    "Defense Ratio": 110,
+    "Min CP Cap": 589,
+    "Max CP Cap": 792
+}, {
+    "Name": "Kingler",
+    "#": 99,
+    "HP Ratio": 110,
+    "Attack Ratio": 178,
+    "Defense Ratio": 168,
+    "Min CP Cap": 1511,
+    "Max CP Cap": 1823
+}, {
+    "Name": "Voltorb",
+    "#": 100,
+    "HP Ratio": 80,
+    "Attack Ratio": 102,
+    "Defense Ratio": 124,
+    "Min CP Cap": 635,
+    "Max CP Cap": 840
+}, {
+    "Name": "Electrode",
+    "#": 101,
+    "HP Ratio": 120,
+    "Attack Ratio": 150,
+    "Defense Ratio": 174,
+    "Min CP Cap": 1354,
+    "Max CP Cap": 1646
+}, {
+    "Name": "Exeggcute",
+    "#": 102,
+    "HP Ratio": 120,
+    "Attack Ratio": 110,
+    "Defense Ratio": 132,
+    "Min CP Cap": 865,
+    "Max CP Cap": 1100
+}, {
+    "Name": "Exeggutor",
+    "#": 103,
+    "HP Ratio": 190,
+    "Attack Ratio": 232,
+    "Defense Ratio": 164,
+    "Min CP Cap": 2558,
+    "Max CP Cap": 2955
+}, {
+    "Name": "Cubone",
+    "#": 104,
+    "HP Ratio": 100,
+    "Attack Ratio": 102,
+    "Defense Ratio": 150,
+    "Min CP Cap": 780,
+    "Max CP Cap": 1007
+}, {
+    "Name": "Marowak",
+    "#": 105,
+    "HP Ratio": 120,
+    "Attack Ratio": 140,
+    "Defense Ratio": 202,
+    "Min CP Cap": 1361,
+    "Max CP Cap": 1657
+}, {
+    "Name": "Hitmonlee",
+    "#": 106,
+    "HP Ratio": 100,
+    "Attack Ratio": 148,
+    "Defense Ratio": 172,
+    "Min CP Cap": 1212,
+    "Max CP Cap": 1493
+}, {
+    "Name": "Hitmonchan",
+    "#": 107,
+    "HP Ratio": 100,
+    "Attack Ratio": 138,
+    "Defense Ratio": 204,
+    "Min CP Cap": 1231,
+    "Max CP Cap": 1517
+}, {
+    "Name": "Lickitung",
+    "#": 108,
+    "HP Ratio": 180,
+    "Attack Ratio": 126,
+    "Defense Ratio": 160,
+    "Min CP Cap": 1336,
+    "Max CP Cap": 1627
+}, {
+    "Name": "Koffing",
+    "#": 109,
+    "HP Ratio": 80,
+    "Attack Ratio": 136,
+    "Defense Ratio": 142,
+    "Min CP Cap": 905,
+    "Max CP Cap": 1152
+}, {
+    "Name": "Weezing",
+    "#": 110,
+    "HP Ratio": 130,
+    "Attack Ratio": 190,
+    "Defense Ratio": 198,
+    "Min CP Cap": 1904,
+    "Max CP Cap": 2250
+}, {
+    "Name": "Rhyhorn",
+    "#": 111,
+    "HP Ratio": 160,
+    "Attack Ratio": 110,
+    "Defense Ratio": 116,
+    "Min CP Cap": 936,
+    "Max CP Cap": 1182
+}, {
+    "Name": "Rhydon",
+    "#": 112,
+    "HP Ratio": 210,
+    "Attack Ratio": 166,
+    "Defense Ratio": 160,
+    "Min CP Cap": 1900,
+    "Max CP Cap": 2243
+}, {
+    "Name": "Chansey",
+    "#": 113,
+    "HP Ratio": 500,
+    "Attack Ratio": 40,
+    "Defense Ratio": 60,
+    "Min CP Cap": 433,
+    "Max CP Cap": 675
+}, {
+    "Name": "Tangela",
+    "#": 114,
+    "HP Ratio": 130,
+    "Attack Ratio": 164,
+    "Defense Ratio": 152,
+    "Min CP Cap": 1440,
+    "Max CP Cap": 1740
+}, {
+    "Name": "Kangaskhan",
+    "#": 115,
+    "HP Ratio": 210,
+    "Attack Ratio": 142,
+    "Defense Ratio": 178,
+    "Min CP Cap": 1715,
+    "Max CP Cap": 2043
+}, {
+    "Name": "Horsea",
+    "#": 116,
+    "HP Ratio": 60,
+    "Attack Ratio": 122,
+    "Defense Ratio": 100,
+    "Min CP Cap": 590,
+    "Max CP Cap": 795
+}, {
+    "Name": "Seadra",
+    "#": 117,
+    "HP Ratio": 110,
+    "Attack Ratio": 176,
+    "Defense Ratio": 150,
+    "Min CP Cap": 1412,
+    "Max CP Cap": 1713
+}, {
+    "Name": "Goldeen",
+    "#": 118,
+    "HP Ratio": 90,
+    "Attack Ratio": 112,
+    "Defense Ratio": 126,
+    "Min CP Cap": 745,
+    "Max CP Cap": 965
+}, {
+    "Name": "Seaking",
+    "#": 119,
+    "HP Ratio": 160,
+    "Attack Ratio": 172,
+    "Defense Ratio": 160,
+    "Min CP Cap": 1719,
+    "Max CP Cap": 2044
+}, {
+    "Name": "Staryu",
+    "#": 120,
+    "HP Ratio": 60,
+    "Attack Ratio": 130,
+    "Defense Ratio": 128,
+    "Min CP Cap": 712,
+    "Max CP Cap": 938
+}, {
+    "Name": "Starmie",
+    "#": 121,
+    "HP Ratio": 120,
+    "Attack Ratio": 194,
+    "Defense Ratio": 192,
+    "Min CP Cap": 1839,
+    "Max CP Cap": 2182
+}, {
+    "Name": "Mr. Mime",
+    "#": 122,
+    "HP Ratio": 80,
+    "Attack Ratio": 154,
+    "Defense Ratio": 196,
+    "Min CP Cap": 1204,
+    "Max CP Cap": 1494
+}, {
+    "Name": "Scyther",
+    "#": 123,
+    "HP Ratio": 140,
+    "Attack Ratio": 176,
+    "Defense Ratio": 180,
+    "Min CP Cap": 1745,
+    "Max CP Cap": 2074
+}, {
+    "Name": "Jynx",
+    "#": 124,
+    "HP Ratio": 130,
+    "Attack Ratio": 172,
+    "Defense Ratio": 134,
+    "Min CP Cap": 1418,
+    "Max CP Cap": 1717
+}, {
+    "Name": "Electabuzz",
+    "#": 125,
+    "HP Ratio": 130,
+    "Attack Ratio": 198,
+    "Defense Ratio": 160,
+    "Min CP Cap": 1784,
+    "Max CP Cap": 2119
+}, {
+    "Name": "Magmar",
+    "#": 126,
+    "HP Ratio": 130,
+    "Attack Ratio": 214,
+    "Defense Ratio": 158,
+    "Min CP Cap": 1916,
+    "Max CP Cap": 2265
+}, {
+    "Name": "Pinsir",
+    "#": 127,
+    "HP Ratio": 130,
+    "Attack Ratio": 184,
+    "Defense Ratio": 186,
+    "Min CP Cap": 1787,
+    "Max CP Cap": 2122
+}, {
+    "Name": "Tauros",
+    "#": 128,
+    "HP Ratio": 150,
+    "Attack Ratio": 148,
+    "Defense Ratio": 184,
+    "Min CP Cap": 1536,
+    "Max CP Cap": 1845
+}, {
+    "Name": "Magikarp",
+    "#": 129,
+    "HP Ratio": 40,
+    "Attack Ratio": 42,
+    "Defense Ratio": 84,
+    "Min CP Cap": 152,
+    "Max CP Cap": 263
+}, {
+    "Name": "Gyarados",
+    "#": 130,
+    "HP Ratio": 190,
+    "Attack Ratio": 192,
+    "Defense Ratio": 196,
+    "Min CP Cap": 2314,
+    "Max CP Cap": 2689
+}, {
+    "Name": "Lapras",
+    "#": 131,
+    "HP Ratio": 260,
+    "Attack Ratio": 186,
+    "Defense Ratio": 190,
+    "Min CP Cap": 2582,
+    "Max CP Cap": 2981
+}, {
+    "Name": "Ditto",
+    "#": 132,
+    "HP Ratio": 96,
+    "Attack Ratio": 110,
+    "Defense Ratio": 110,
+    "Min CP Cap": 706,
+    "Max CP Cap": 920
+}, {
+    "Name": "Eevee",
+    "#": 133,
+    "HP Ratio": 110,
+    "Attack Ratio": 114,
+    "Defense Ratio": 128,
+    "Min CP Cap": 845,
+    "Max CP Cap": 1077
+}, {
+    "Name": "Vaporeon",
+    "#": 134,
+    "HP Ratio": 260,
+    "Attack Ratio": 186,
+    "Defense Ratio": 168,
+    "Min CP Cap": 2428,
+    "Max CP Cap": 2816
+}, {
+    "Name": "Jolteon",
+    "#": 135,
+    "HP Ratio": 130,
+    "Attack Ratio": 192,
+    "Defense Ratio": 174,
+    "Min CP Cap": 1804,
+    "Max CP Cap": 2140
+}, {
+    "Name": "Flareon",
+    "#": 136,
+    "HP Ratio": 130,
+    "Attack Ratio": 238,
+    "Defense Ratio": 178,
+    "Min CP Cap": 2261,
+    "Max CP Cap": 2643
+}, {
+    "Name": "Porygon",
+    "#": 137,
+    "HP Ratio": 130,
+    "Attack Ratio": 156,
+    "Defense Ratio": 158,
+    "Min CP Cap": 1396,
+    "Max CP Cap": 1692
+}, {
+    "Name": "Omanyte",
+    "#": 138,
+    "HP Ratio": 70,
+    "Attack Ratio": 132,
+    "Defense Ratio": 160,
+    "Min CP Cap": 873,
+    "Max CP Cap": 1120
+}, {
+    "Name": "Omastar",
+    "#": 139,
+    "HP Ratio": 140,
+    "Attack Ratio": 180,
+    "Defense Ratio": 202,
+    "Min CP Cap": 1891,
+    "Max CP Cap": 2234
+}, {
+    "Name": "Kabuto",
+    "#": 140,
+    "HP Ratio": 60,
+    "Attack Ratio": 148,
+    "Defense Ratio": 142,
+    "Min CP Cap": 853,
+    "Max CP Cap": 1105
+}, {
+    "Name": "Kabutops",
+    "#": 141,
+    "HP Ratio": 120,
+    "Attack Ratio": 190,
+    "Defense Ratio": 190,
+    "Min CP Cap": 1792,
+    "Max CP Cap": 2130
+}, {
+    "Name": "Aerodactyl",
+    "#": 142,
+    "HP Ratio": 160,
+    "Attack Ratio": 182,
+    "Defense Ratio": 162,
+    "Min CP Cap": 1830,
+    "Max CP Cap": 2165
+}, {
+    "Name": "Snorlax",
+    "#": 143,
+    "HP Ratio": 320,
+    "Attack Ratio": 180,
+    "Defense Ratio": 180,
+    "Min CP Cap": 2698,
+    "Max CP Cap": 3113
+}, {
+    "Name": "Articuno",
+    "#": 144,
+    "HP Ratio": 180,
+    "Attack Ratio": 198,
+    "Defense Ratio": 242,
+    "Min CP Cap": 2581,
+    "Max CP Cap": 2978
+}, {
+    "Name": "Zapdos",
+    "#": 145,
+    "HP Ratio": 180,
+    "Attack Ratio": 232,
+    "Defense Ratio": 194,
+    "Min CP Cap": 2708,
+    "Max CP Cap": 3114
+}, {
+    "Name": "Moltres",
+    "#": 146,
+    "HP Ratio": 180,
+    "Attack Ratio": 242,
+    "Defense Ratio": 194,
+    "Min CP Cap": 2824,
+    "Max CP Cap": 3240
+}, {
+    "Name": "Dratini",
+    "#": 147,
+    "HP Ratio": 82,
+    "Attack Ratio": 128,
+    "Defense Ratio": 110,
+    "Min CP Cap": 759,
+    "Max CP Cap": 983
+}, {
+    "Name": "Dragonair",
+    "#": 148,
+    "HP Ratio": 122,
+    "Attack Ratio": 170,
+    "Defense Ratio": 152,
+    "Min CP Cap": 1446,
+    "Max CP Cap": 1748
+}, {
+    "Name": "Dragonite",
+    "#": 149,
+    "HP Ratio": 182,
+    "Attack Ratio": 250,
+    "Defense Ratio": 212,
+    "Min CP Cap": 3067,
+    "Max CP Cap": 3500
+}, {
+    "Name": "Mewtwo",
+    "#": 150,
+    "HP Ratio": 212,
+    "Attack Ratio": 284,
+    "Defense Ratio": 202,
+    "Min CP Cap": 3671,
+    "Max CP Cap": 4145
+}, {
+    "Name": "Mew",
+    "#": 151,
+    "HP Ratio": 200,
+    "Attack Ratio": 220,
+    "Defense Ratio": 220,
+    "Min CP Cap": 2882,
+    "Max CP Cap": 3299
+}]
