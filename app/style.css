@@ -1,11 +1,22 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+body > md-content {
+  margin: auto;
+  width: 50%;
+}
+
 table {
+  border-radius: 10px;
   border-spacing: 0;
+  border: 2px solid black;
   margin: 5% auto;
 }
 
 table th,
 table td {
-  padding: 5px;
+  padding: 4px 8px;
   text-align: center;
 }
 
@@ -19,6 +30,18 @@ table tr:nth-child(odd) {
 
 table tr:first-child {
   background-color: #212121; /* Grey 900 */
+}
+
+.hight {
+  color: #4caf50; /* Green */
+  font-weight: bold;
+  text-shadow: #000 1px 1px, #000 -1px 1px, #000 -1px -1px, #000 1px -1px;
+}
+
+.low {
+  color: #f44336; /* Red */
+  font-weight: bold;
+  text-shadow: #000 1px 1px, #000 -1px 1px, #000 -1px -1px, #000 1px -1px;
 }
 
 .bug {

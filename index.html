@@ -8,6 +8,7 @@
 
     <link rel="stylesheet" href="./bower_components/angular-material/angular-material.min.css">
     <link rel="stylesheet" href="./app/style.css">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
 
     <script src="./bower_components/angular/angular.min.js"></script>
     <script src="./bower_components/angular-animate/angular-animate.min.js"></script>
@@ -21,32 +22,43 @@
 
   <body ng-controller="MainController as main" ng-cloak>
 
-    <table>
-      <tr>
-        <th>ID</th>
-        <th>Name</th>
-        <th>Type</th>
-        <th>PW</th>
-        <th>StaminaLossScalar</th>
-        <th>HealScalar</th>
-        <th>Duration (ms)</th>
-        <th>Dodge Window (ms)</th>
-        <th>Crit%</th>
-        <th>NRG Cost</th>
-      </tr>
-      <tr ng-repeat="value in main.chargedMoves">
-        <td>{{value.ID}}</td>
-        <td>{{value.Name}}</td>
-        <td class="{{value.Type.toLowerCase()}}">{{value.Type}}</td>
-        <td>{{value.PW}}</td>
-        <td>{{value.StaminaLossScalar}}</td>
-        <td>{{value.HealScalar}}</td>
-        <td>{{value.Duration}}</td>
-        <td>{{value.Dodge_Window}}</td>
-        <td>{{value.Crit}}</td>
-        <td>{{value.NRG_Cost}}</td>
-      </tr>
-    </table>
+    <md-content>
+      <md-tabs md-dynamic-height md-border-bottom>
+        <md-tab label="Basic Moves">
+          <md-content class="md-padding"></md-content>
+        </md-tab>
+        <md-tab label="Charged Moves">
+          <md-content class="md-padding">
+            <table>
+              <tr>
+                <th aria-label="test">ID</th>
+                <th>Name</th>
+                <th>Type</th>
+                <th>PW</th>
+                <th>StaminaLossScalar</th>
+                <th>HealScalar</th>
+                <th>Duration (ms)</th>
+                <th>Dodge Window (ms)</th>
+                <th>Crit%</th>
+                <th>NRG Cost</th>
+              </tr>
+              <tr ng-repeat="value in main.chargedMoves">
+                <td>{{value.ID}}</td>
+                <td>{{value.Name}}</td>
+                <td class="{{value.Type.toLowerCase()}}">{{value.Type}}</td>
+                <td ng-class="{'hight': value.PW >= 0.9 * main.pwMax, 'low': value.PW <= 1.1 * main.pwMin}">{{value.PW}}</td>
+                <td ng-class="{'low': value.StaminaLossScalar >= 0.9 * main.staminaLossScalarMax, 'hight': value.StaminaLossScalar <= 1.1 * main.staminaLossScalarMin}">{{value.StaminaLossScalar}}</td>
+                <td ng-class="{'hight': value.HealScalar >= 0.9 * main.healScalarMax, 'low': value.HealScalar <= 1.1 * main.healScalarMin}">{{value.HealScalar}}</td>
+                <td ng-class="{'low': value.Duration >= 0.9 * main.durationMax, 'hight': value.Duration <= 1.1 * main.durationMin}">{{value.Duration}}</td>
+                <td ng-class="{'low': value.DodgeWindow >= 0.9 * main.dodgeWindowMax, 'hight': value.DodgeWindow <= 1.1 * main.dodgeWindowMin}">{{value.DodgeWindow}}</td>
+                <td ng-class="{'hight': value.Crit >= 0.9 * main.critMax, 'low': value.Crit <= 1.1 * main.critMin}">{{value.Crit.replace(".00", ""); }}</td>
+                <td ng-class="{'low': value.NRGCost >= 0.9 * main.NRGCostMax, 'hight': value.NRGCost <= 1.1 * main.NRGCostMin}">{{value.NRGCost}}</td>
+              </tr>
+            </table>
+          </md-content>
+        </md-tab>
+      </md-tabs>
+    </md-content>
 
   </body>
 </html>
