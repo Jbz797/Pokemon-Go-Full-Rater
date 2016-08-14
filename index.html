@@ -80,6 +80,14 @@
               <td ng-class="{'hight': value.Crit >= 0.9 * charged.critMax, 'low': value.Crit <= 1.1 * charged.critMin}">{{value.Crit.replace(".00", ""); }}</td>
               <td ng-class="{'low': value.NRGCost >= 0.9 * charged.NRGCostMax, 'hight': value.NRGCost <= 1.1 * charged.NRGCostMin}">{{value.NRGCost}}</td>
             </tr>
+            <tr>
+              <td colspan="3">Averages : </td>
+              <td>{{charged.pwAvg}}</td>
+              <td>{{charged.durationAvg}}</td>
+              <td>{{charged.dodgeWindowAvg}}</td>
+              <td>{{charged.critAvg}}</td>
+              <td>{{charged.NRGCostAvg}}</td>
+              <td>
           </table>
         </md-tab>
       </md-tabs>
