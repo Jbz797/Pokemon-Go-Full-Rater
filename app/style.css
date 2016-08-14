@@ -37,6 +37,15 @@ table tr:first-child {
   background-color: #212121; /* Grey 900 */
 }
 
+table tr:last-child {
+  background-color: #212121; /* Grey 900 */
+  font-weight: bold;
+}
+
+table tr:last-child td:first-child {
+  text-align: right;
+}
+
 .hight {
   color: #4caf50; /* Green */
   font-weight: bold;

@@ -14,6 +14,14 @@
 
 		activate();
 
+		function average(table) {
+			var sum = table.reduce(function (a, b) {
+				return a + b;
+			});
+			var avg = sum / table.length;
+			return Math.round(avg * 10) / 10;
+		}
+
 		function activate() {
 
 			$http.get('app/data/basic_moves.json')
@@ -45,6 +53,12 @@
 					vm.nRGPSMin = Math.min.apply(null, nRGPSArray);
 					vm.pwMax = Math.max.apply(null, pwArray);
 					vm.pwMin = Math.min.apply(null, pwArray);
+
+					vm.durationAvg = average(durationArray);
+					vm.pwAvg = average(pwArray);
+					vm.dPSAvg = average(dPSArray);
+					vm.nRGAvg = average(nRGArray);
+					vm.nRGPSAvg = average(nRGPSArray);
 				});
 		}
 	}

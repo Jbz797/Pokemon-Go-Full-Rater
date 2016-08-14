@@ -48,6 +48,14 @@
               <td ng-class="{'low': value.NRGPS >= 0.9 * basic.nRGPSMax, 'hight': value.NRGPS <= 1.1 * basic.nRGPSMin}">{{value.NRGPS}}</td>
               <td ng-class="{'hight': value.DPS >= 0.9 * basic.dPSMax, 'low': value.DPS <= 1.1 * basic.dPSMin}">{{value.DPS}}</td>
             </tr>
+            <tr>
+              <td colspan="3">Averages : </td>
+              <td>{{basic.pwAvg}}</td>
+              <td>{{basic.durationAvg}}</td>
+              <td>{{basic.nRGAvg}}</td>
+              <td>{{basic.nRGPSAvg}}</td>
+              <td>{{basic.dPSAvg}}</td>
+            </tr>
           </table>
         </md-tab>
         <md-tab label="Charged Moves">
