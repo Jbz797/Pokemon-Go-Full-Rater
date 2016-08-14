@@ -16,46 +16,63 @@
     <script src="./bower_components/angular-messages/angular-messages.min.js"></script>
     <script src="./bower_components/angular-material/angular-material.min.js"></script>
     <script src="./app/app.js"></script>
-    <script src="./app/mainController.js"></script>
+    <script src="./app/basicController.js"></script>
+    <script src="./app/chargedController.js"></script>
 
   </head>
 
-  <body ng-controller="MainController as main" ng-cloak>
+  <body ng-cloak>
 
     <md-content>
+      <h1>- Pokemon Full Rater -</h1>
       <md-tabs md-dynamic-height md-border-bottom>
         <md-tab label="Basic Moves">
-          <md-content class="md-padding"></md-content>
+          <table ng-controller="BasicController as basic">
+            <tr>
+              <th aria-label="test">ID</th>
+              <th>Name</th>
+              <th>Type</th>
+              <th>PW</th>
+              <th>Duration (ms)</th>
+              <th>NRG</th>
+              <th>NRGPS</th>
+              <th>DPS</th>
+            </tr>
+            <tr ng-repeat="value in basic.basicMoves">
+              <td>{{value.ID}}</td>
+              <td>{{value.Name}}</td>
+              <td class="{{value.Type.toLowerCase()}}">{{value.Type}}</td>
+              <td ng-class="{'hight': value.PW >= 0.9 * basic.pwMax, 'low': value.PW <= 1.1 * basic.pwMin}">{{value.PW}}</td>
+              <td ng-class="{'low': value.Duration >= 0.9 * basic.durationMax, 'hight': value.Duration <= 1.1 * basic.durationMin}">{{value.Duration}}</td>
+              <td ng-class="{'low': value.NRG >= 0.9 * basic.nRGMax, 'hight': value.NRG <= 1.1 * basic.nRGMin}">{{value.NRG}}</td>
+              <td ng-class="{'low': value.NRGPS >= 0.9 * basic.nRGPSMax, 'hight': value.NRGPS <= 1.1 * basic.nRGPSMin}">{{value.NRGPS}}</td>
+              <td ng-class="{'hight': value.DPS >= 0.9 * basic.dPSMax, 'low': value.DPS <= 1.1 * basic.dPSMin}">{{value.DPS}}</td>
+            </tr>
+          </table>
         </md-tab>
         <md-tab label="Charged Moves">
-          <md-content class="md-padding">
-            <table>
-              <tr>
-                <th aria-label="test">ID</th>
-                <th>Name</th>
-                <th>Type</th>
-                <th>PW</th>
-                <th>StaminaLossScalar</th>
-                <th>HealScalar</th>
-                <th>Duration (ms)</th>
-                <th>Dodge Window (ms)</th>
-                <th>Crit%</th>
-                <th>NRG Cost</th>
-              </tr>
-              <tr ng-repeat="value in main.chargedMoves">
-                <td>{{value.ID}}</td>
-                <td>{{value.Name}}</td>
-                <td class="{{value.Type.toLowerCase()}}">{{value.Type}}</td>
-                <td ng-class="{'hight': value.PW >= 0.9 * main.pwMax, 'low': value.PW <= 1.1 * main.pwMin}">{{value.PW}}</td>
-                <td ng-class="{'low': value.StaminaLossScalar >= 0.9 * main.staminaLossScalarMax, 'hight': value.StaminaLossScalar <= 1.1 * main.staminaLossScalarMin}">{{value.StaminaLossScalar}}</td>
-                <td ng-class="{'hight': value.HealScalar >= 0.9 * main.healScalarMax, 'low': value.HealScalar <= 1.1 * main.healScalarMin}">{{value.HealScalar}}</td>
-                <td ng-class="{'low': value.Duration >= 0.9 * main.durationMax, 'hight': value.Duration <= 1.1 * main.durationMin}">{{value.Duration}}</td>
-                <td ng-class="{'low': value.DodgeWindow >= 0.9 * main.dodgeWindowMax, 'hight': value.DodgeWindow <= 1.1 * main.dodgeWindowMin}">{{value.DodgeWindow}}</td>
-                <td ng-class="{'hight': value.Crit >= 0.9 * main.critMax, 'low': value.Crit <= 1.1 * main.critMin}">{{value.Crit.replace(".00", ""); }}</td>
-                <td ng-class="{'low': value.NRGCost >= 0.9 * main.NRGCostMax, 'hight': value.NRGCost <= 1.1 * main.NRGCostMin}">{{value.NRGCost}}</td>
-              </tr>
-            </table>
-          </md-content>
+          <table ng-controller="ChargedController as charged">
+            <tr>
+              <th aria-label="test">ID</th>
+              <th>Name</th>
+              <th>Type</th>
+              <th>PW</th>
+              <th>Duration (ms)</th>
+              <th>Dodge Window (ms)</th>
+              <th>Crit%</th>
+              <th>NRG Cost</th>
+            </tr>
+            <tr ng-repeat="value in charged.chargedMoves">
+              <td>{{value.ID}}</td>
+              <td>{{value.Name}}</td>
+              <td class="{{value.Type.toLowerCase()}}">{{value.Type}}</td>
+              <td ng-class="{'hight': value.PW >= 0.9 * charged.pwMax, 'low': value.PW <= 1.1 * charged.pwMin}">{{value.PW}}</td>
+              <td ng-class="{'low': value.Duration >= 0.9 * charged.durationMax, 'hight': value.Duration <= 1.1 * charged.durationMin}">{{value.Duration}}</td>
+              <td ng-class="{'low': value.DodgeWindow >= 0.9 * charged.dodgeWindowMax, 'hight': value.DodgeWindow <= 1.1 * charged.dodgeWindowMin}">{{value.DodgeWindow}}</td>
+              <td ng-class="{'hight': value.Crit >= 0.9 * charged.critMax, 'low': value.Crit <= 1.1 * charged.critMin}">{{value.Crit.replace(".00", ""); }}</td>
+              <td ng-class="{'low': value.NRGCost >= 0.9 * charged.NRGCostMax, 'hight': value.NRGCost <= 1.1 * charged.NRGCostMin}">{{value.NRGCost}}</td>
+            </tr>
+          </table>
         </md-tab>
       </md-tabs>
     </md-content>

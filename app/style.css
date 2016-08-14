@@ -4,7 +4,12 @@ body {
 
 body > md-content {
   margin: auto;
-  width: 50%;
+  width: 800px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
 }
 
 table {
