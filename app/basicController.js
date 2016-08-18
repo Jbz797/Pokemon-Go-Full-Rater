@@ -19,7 +19,7 @@
 				return a + b;
 			});
 			var avg = sum / table.length;
-			return Math.round(avg * 10) / 10;
+			return Math.round(avg);
 		}
 
 		function activate() {

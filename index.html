@@ -15,6 +15,7 @@
     <script src="./bower_components/angular-aria/angular-aria.min.js"></script>
     <script src="./bower_components/angular-messages/angular-messages.min.js"></script>
     <script src="./bower_components/angular-material/angular-material.min.js"></script>
+    <script src="./bower_components/angular-tablesort/js/angular-tablesort.js"></script>
     <script src="./app/app.js"></script>
     <script src="./app/basicController.js"></script>
     <script src="./app/chargedController.js"></script>
@@ -27,18 +28,18 @@
       <h1>- Pokemon Full Rater -</h1>
       <md-tabs md-dynamic-height md-border-bottom>
         <md-tab label="Basic Moves">
-          <table ng-controller="BasicController as basic">
+          <table ng-controller="BasicController as basic" ts-wrapper>
             <tr>
-              <th aria-label="test">ID</th>
-              <th>Name</th>
-              <th>Type</th>
-              <th>PW</th>
-              <th>Duration (ms)</th>
-              <th>NRG</th>
-              <th>NRGPS</th>
-              <th>DPS</th>
+              <th ts-criteria="ID" ts-default>ID</th>
+              <th ts-criteria="Name">Name</th>
+              <th ts-criteria="Type">Type</th>
+              <th ts-criteria="PW">PW</th>
+              <th ts-criteria="Duration">Duration</th>
+              <th ts-criteria="NRG">NRG</th>
+              <th ts-criteria="NRGPS">NRGPS</th>
+              <th ts-criteria="DPS">DPS</th>
             </tr>
-            <tr ng-repeat="value in basic.basicMoves">
+            <tr ng-repeat="value in basic.basicMoves" ts-repeat>
               <td>{{value.ID}}</td>
               <td>{{value.Name}}</td>
               <td class="{{value.Type.toLowerCase()}}">{{value.Type}}</td>
@@ -59,18 +60,18 @@
           </table>
         </md-tab>
         <md-tab label="Charged Moves">
-          <table ng-controller="ChargedController as charged">
+          <table ng-controller="ChargedController as charged" ts-wrapper>
             <tr>
-              <th aria-label="test">ID</th>
-              <th>Name</th>
-              <th>Type</th>
-              <th>PW</th>
-              <th>Duration (ms)</th>
-              <th>Dodge Window (ms)</th>
-              <th>Crit%</th>
-              <th>NRG Cost</th>
+              <th aria-label="test" ts-criteria="ID" ts-default>ID</th>
+              <th ts-criteria="Name">Name</th>
+              <th ts-criteria="Type">Type</th>
+              <th ts-criteria="PW">PW</th>
+              <th ts-criteria="Duration">Duration</th>
+              <th ts-criteria="DodgeWindow">Dodge Window</th>
+              <th ts-criteria="Crit">Crit %</th>
+              <th ts-criteria="NRGCost">NRG Cost</th>
             </tr>
-            <tr ng-repeat="value in charged.chargedMoves">
+            <tr ng-repeat="value in charged.chargedMoves" ts-repeat>
               <td>{{value.ID}}</td>
               <td>{{value.Name}}</td>
               <td class="{{value.Type.toLowerCase()}}">{{value.Type}}</td>
@@ -87,7 +88,6 @@
               <td>{{charged.dodgeWindowAvg}}</td>
               <td>{{charged.critAvg}}</td>
               <td>{{charged.NRGCostAvg}}</td>
-              <td>
           </table>
         </md-tab>
       </md-tabs>

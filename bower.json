@@ -1,13 +1,14 @@
 {
-    "name": "Pokemon-Go-Full-Rater",
-    "homepage": "https://github.com/Jbz797/Pokemon-Go-Full-Rater",
-    "description": "",
-    "main": "index.html",
-    "authors": [
-        "Jean-benoit Gautier"
-    ],
-    "license": "MIT",
-    "dependencies": {
-        "angular-material": "master"
-    }
+  "name": "Pokemon-Go-Full-Rater",
+  "homepage": "https://github.com/Jbz797/Pokemon-Go-Full-Rater",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Jean-benoit Gautier"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular-material": "master",
+    "angular-tablesort": "#latest"
+  }
 }

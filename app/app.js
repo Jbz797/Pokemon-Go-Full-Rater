@@ -1,7 +1,7 @@
 (function () {
 	'use strict';
 
-	angular.module('app', ['ngMaterial'])
+	angular.module('app', ['tableSort', 'ngMaterial'])
 
 	.config(function ($mdThemingProvider) {
 		$mdThemingProvider.theme('default')
