@@ -1,12 +1,17 @@
 {
-  "name": "Pokemon-Go-Full-Rater",
-  "homepage": "https://github.com/Jbz797/Pokemon-Go-Full-Rater",
-  "description": "",
+  "name": "pokemon-go-full-rater",
+  "description": "Full rater for your Pokemons",
+  "version": "1.0.0",
   "main": "index.html",
+  "homepage": "https://github.com/Jbz797/Pokemon-Go-Full-Rater",
   "authors": [
     "Jean-benoit Gautier"
   ],
   "license": "MIT",
+  "ignore": [
+    "bower_components",
+    "node_modules"
+  ],
   "dependencies": {
     "angular-material": "master",
     "angular-tablesort": "#latest"
