@@ -85,6 +85,10 @@ table tr:last-child {
   font-weight: bold;
 }
 
+table tr:last-child td {
+  padding: 6px 12px;
+}
+
 table tr:last-child td:first-child {
   text-align: right;
 }

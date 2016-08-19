@@ -7,7 +7,6 @@
 
 	BasicController.$inject = ['$http'];
 
-	/* @ngInject */
 	function BasicController($http) {
 
 		var vm = this;

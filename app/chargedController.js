@@ -7,7 +7,6 @@
 
 	ChargedController.$inject = ['$http'];
 
-	/* @ngInject */
 	function ChargedController($http) {
 
 		var vm = this;
