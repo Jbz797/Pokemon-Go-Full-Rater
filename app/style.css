@@ -31,10 +31,14 @@ table td {
   text-align: center;
 }
 
+table td {
+  border-bottom: 1px solid #212121; /* Grey 900 */
+}
+
 table th {
   cursor: pointer;
   position: relative;
-  padding: 6px 12px;
+  padding: 6px 10px;
 }
 
 table .tablesort-asc,

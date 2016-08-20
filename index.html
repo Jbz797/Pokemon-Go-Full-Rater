@@ -75,7 +75,7 @@
             <tr ng-repeat="value in charged.chargedMoves" ts-repeat>
               <td>{{value.ID}}</td>
               <td>{{value.Name}}</td>
-              <td class="{{value.Type.toLowerCase()}}">{{value.Type}}</td>
+              <td class="{{value.Type.toLowerCase()}} type">{{value.Type}}</td>
               <td ng-class="{'hight': value.PW >= 0.85 * charged.pwMax, 'low': value.PW <= 1.15 * charged.pwMin}">{{value.PW}}</td>
               <td ng-class="{'low': value.Duration >= 0.85 * charged.durationMax, 'hight': value.Duration <= 1.15 * charged.durationMin}">{{value.Duration}}</td>
               <td ng-class="{'low': value.DodgeWindow >= 0.85 * charged.dodgeWindowMax, 'hight': value.DodgeWindow <= 1.15 * charged.dodgeWindowMin}">{{value.DodgeWindow}}</td>
@@ -97,6 +97,8 @@
             <tr>
               <th ts-criteria="ID" ts-default>ID</th>
               <th ts-criteria="Name">Name</th>
+              <th ts-criteria="Type1">Type 1</th>
+              <th ts-criteria="Type2">Type 2</th>
               <th ts-criteria="HPRatio">HP Ratio</th>
               <th ts-criteria="AttackRatio">Attack Ratio</th>
               <th ts-criteria="DefenseRatio">Defense Ratio</th>
@@ -106,6 +108,8 @@
             <tr ng-repeat="value in species.speciesData" ts-repeat>
               <td>{{value.ID}}</td>
               <td>{{value.Name}}</td>
+              <td colspan="{{value.Type2 === '' ? 2 : 1}}" class="{{value.Type1.toLowerCase()}} type">{{value.Type1}}</td>
+              <td ng-if="value.Type2 !== ''" class="{{value.Type2.toLowerCase()}} type">{{value.Type2}}</td>
               <td ng-class="{'hight': value.HPRatio >= 0.85 * species.hpRatioMax, 'low': value.HPRatio <= 1.15 * species.hpRatioMin}">{{value.HPRatio}}</td>
               <td ng-class="{'hight': value.AttackRatio >= 0.85 * species.attackRatioMax, 'low': value.AttackRatio <= 1.15 * species.attackRatioMin}">{{value.AttackRatio}}</td>
               <td ng-class="{'hight': value.DefenseRatio >= 0.85 * species.defenseRatioMax, 'low': value.DefenseRatio <= 1.15 * species.defenseRatioMin}">{{value.DefenseRatio}}</td>
@@ -113,7 +117,7 @@
               <td ng-class="{'hight': value.MaxCPCap >= 0.85 * species.maxCPCapMax, 'low': value.MaxCPCap <= 1.15 * species.maxCPCapMin}">{{value.MaxCPCap}}</td>
             </tr>
             <tr>
-              <td colspan="2">Averages : </td>
+              <td colspan="4">Averages : </td>
               <td>{{species.hpRatioAvg}}</td>
               <td>{{species.attackRatioAvg}}</td>
               <td>{{species.defenseRatioAvg}}</td>

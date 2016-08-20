@@ -5,7 +5,9 @@
   "AttackRatio": 126,
   "DefenseRatio": 126,
   "MinCPCap": 838,
-  "MaxCPCap": 1072
+  "MaxCPCap": 1072,
+  "Type1": "Grass",
+  "Type2": "Poison"
 }, {
   "Name": "Ivysaur",
   "ID": 2,
@@ -13,7 +15,9 @@
   "AttackRatio": 156,
   "DefenseRatio": 158,
   "MinCPCap": 1342,
-  "MaxCPCap": 1632
+  "MaxCPCap": 1632,
+  "Type1": "Grass",
+  "Type2": "Poison"
 }, {
   "Name": "Venusaur",
   "ID": 3,
@@ -21,7 +25,9 @@
   "AttackRatio": 198,
   "DefenseRatio": 200,
   "MinCPCap": 2212,
-  "MaxCPCap": 2580
+  "MaxCPCap": 2580,
+  "Type1": "Grass",
+  "Type2": "Poison"
 }, {
   "Name": "Charmander",
   "ID": 4,
@@ -29,7 +35,9 @@
   "AttackRatio": 128,
   "DefenseRatio": 108,
   "MinCPCap": 734,
-  "MaxCPCap": 955
+  "MaxCPCap": 955,
+  "Type1": "Fire",
+  "Type2": ""
 }, {
   "Name": "Charmeleon",
   "ID": 5,
@@ -37,7 +45,9 @@
   "AttackRatio": 160,
   "DefenseRatio": 140,
   "MinCPCap": 1273,
-  "MaxCPCap": 1557
+  "MaxCPCap": 1557,
+  "Type1": "Fire",
+  "Type2": ""
 }, {
   "Name": "Charizard",
   "ID": 6,
@@ -45,7 +55,9 @@
   "AttackRatio": 212,
   "DefenseRatio": 182,
   "MinCPCap": 2231,
-  "MaxCPCap": 2602
+  "MaxCPCap": 2602,
+  "Type1": "Fire",
+  "Type2": "Flying"
 }, {
   "Name": "Squirtle",
   "ID": 7,
@@ -53,7 +65,9 @@
   "AttackRatio": 112,
   "DefenseRatio": 142,
   "MinCPCap": 782,
-  "MaxCPCap": 1009
+  "MaxCPCap": 1009,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Wartortle",
   "ID": 8,
@@ -61,7 +75,9 @@
   "AttackRatio": 144,
   "DefenseRatio": 176,
   "MinCPCap": 1296,
-  "MaxCPCap": 1583
+  "MaxCPCap": 1583,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Blastoise",
   "ID": 9,
@@ -69,7 +85,9 @@
   "AttackRatio": 186,
   "DefenseRatio": 222,
   "MinCPCap": 2176,
-  "MaxCPCap": 2542
+  "MaxCPCap": 2542,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Caterpie",
   "ID": 10,
@@ -77,7 +95,9 @@
   "AttackRatio": 62,
   "DefenseRatio": 66,
   "MinCPCap": 298,
-  "MaxCPCap": 444
+  "MaxCPCap": 444,
+  "Type1": "Bug",
+  "Type2": ""
 }, {
   "Name": "Metapod",
   "ID": 11,
@@ -85,7 +105,9 @@
   "AttackRatio": 56,
   "DefenseRatio": 86,
   "MinCPCap": 324,
-  "MaxCPCap": 478
+  "MaxCPCap": 478,
+  "Type1": "Bug",
+  "Type2": ""
 }, {
   "Name": "Butterfree",
   "ID": 12,
@@ -93,7 +115,9 @@
   "AttackRatio": 144,
   "DefenseRatio": 144,
   "MinCPCap": 1182,
-  "MaxCPCap": 1455
+  "MaxCPCap": 1455,
+  "Type1": "Bug",
+  "Type2": "Flying"
 }, {
   "Name": "Weedle",
   "ID": 13,
@@ -101,7 +125,9 @@
   "AttackRatio": 68,
   "DefenseRatio": 64,
   "MinCPCap": 304,
-  "MaxCPCap": 449
+  "MaxCPCap": 449,
+  "Type1": "Bug",
+  "Type2": "Poison"
 }, {
   "Name": "Kakuna",
   "ID": 14,
@@ -109,7 +135,9 @@
   "AttackRatio": 62,
   "DefenseRatio": 82,
   "MinCPCap": 333,
-  "MaxCPCap": 485
+  "MaxCPCap": 485,
+  "Type1": "Bug",
+  "Type2": "Poison"
 }, {
   "Name": "Beedrill",
   "ID": 15,
@@ -117,7 +145,9 @@
   "AttackRatio": 144,
   "DefenseRatio": 130,
   "MinCPCap": 1169,
-  "MaxCPCap": 1440
+  "MaxCPCap": 1440,
+  "Type1": "Bug",
+  "Type2": "Poison"
 }, {
   "Name": "Pidgey",
   "ID": 16,
@@ -125,7 +155,9 @@
   "AttackRatio": 94,
   "DefenseRatio": 90,
   "MinCPCap": 498,
-  "MaxCPCap": 680
+  "MaxCPCap": 680,
+  "Type1": "Normal",
+  "Type2": "Flying"
 }, {
   "Name": "Pidgeotto",
   "ID": 17,
@@ -133,7 +165,9 @@
   "AttackRatio": 126,
   "DefenseRatio": 122,
   "MinCPCap": 976,
-  "MaxCPCap": 1224
+  "MaxCPCap": 1224,
+  "Type1": "Normal",
+  "Type2": "Flying"
 }, {
   "Name": "Pidgeot",
   "ID": 18,
@@ -141,7 +175,9 @@
   "AttackRatio": 170,
   "DefenseRatio": 166,
   "MinCPCap": 1763,
-  "MaxCPCap": 2091
+  "MaxCPCap": 2091,
+  "Type1": "Normal",
+  "Type2": "Flying"
 }, {
   "Name": "Rattata",
   "ID": 19,
@@ -149,7 +185,9 @@
   "AttackRatio": 92,
   "DefenseRatio": 86,
   "MinCPCap": 413,
-  "MaxCPCap": 582
+  "MaxCPCap": 582,
+  "Type1": "Normal",
+  "Type2": ""
 }, {
   "Name": "Raticate",
   "ID": 20,
@@ -157,7 +195,9 @@
   "AttackRatio": 146,
   "DefenseRatio": 150,
   "MinCPCap": 1171,
-  "MaxCPCap": 1444
+  "MaxCPCap": 1444,
+  "Type1": "Normal",
+  "Type2": ""
 }, {
   "Name": "Spearow",
   "ID": 21,
@@ -165,7 +205,9 @@
   "AttackRatio": 102,
   "DefenseRatio": 78,
   "MinCPCap": 503,
-  "MaxCPCap": 687
+  "MaxCPCap": 687,
+  "Type1": "Normal",
+  "Type2": "Flying"
 }, {
   "Name": "Fearow",
   "ID": 22,
@@ -173,7 +215,9 @@
   "AttackRatio": 168,
   "DefenseRatio": 146,
   "MinCPCap": 1446,
-  "MaxCPCap": 1746
+  "MaxCPCap": 1746,
+  "Type1": "Normal",
+  "Type2": "Flying"
 }, {
   "Name": "Ekans",
   "ID": 23,
@@ -181,7 +225,9 @@
   "AttackRatio": 112,
   "DefenseRatio": 112,
   "MinCPCap": 619,
-  "MaxCPCap": 824
+  "MaxCPCap": 824,
+  "Type1": "Poison",
+  "Type2": ""
 }, {
   "Name": "Arbok",
   "ID": 24,
@@ -189,7 +235,9 @@
   "AttackRatio": 166,
   "DefenseRatio": 166,
   "MinCPCap": 1463,
-  "MaxCPCap": 1767
+  "MaxCPCap": 1767,
+  "Type1": "Poison",
+  "Type2": ""
 }, {
   "Name": "Pikachu",
   "ID": 25,
@@ -197,7 +245,9 @@
   "AttackRatio": 124,
   "DefenseRatio": 108,
   "MinCPCap": 673,
-  "MaxCPCap": 888
+  "MaxCPCap": 888,
+  "Type1": "Electric",
+  "Type2": ""
 }, {
   "Name": "Raichu",
   "ID": 26,
@@ -205,7 +255,9 @@
   "AttackRatio": 200,
   "DefenseRatio": 154,
   "MinCPCap": 1698,
-  "MaxCPCap": 2028
+  "MaxCPCap": 2028,
+  "Type1": "Electric",
+  "Type2": ""
 }, {
   "Name": "Sandshrew",
   "ID": 27,
@@ -213,7 +265,9 @@
   "AttackRatio": 90,
   "DefenseRatio": 114,
   "MinCPCap": 600,
-  "MaxCPCap": 799
+  "MaxCPCap": 799,
+  "Type1": "Ground",
+  "Type2": ""
 }, {
   "Name": "Sandslash",
   "ID": 28,
@@ -221,7 +275,9 @@
   "AttackRatio": 150,
   "DefenseRatio": 172,
   "MinCPCap": 1505,
-  "MaxCPCap": 1810
+  "MaxCPCap": 1810,
+  "Type1": "Ground",
+  "Type2": ""
 }, {
   "Name": "Nidoran F",
   "ID": 29,
@@ -229,7 +285,9 @@
   "AttackRatio": 100,
   "DefenseRatio": 104,
   "MinCPCap": 668,
-  "MaxCPCap": 876
+  "MaxCPCap": 876,
+  "Type1": "Poison",
+  "Type2": ""
 }, {
   "Name": "Nidorina",
   "ID": 30,
@@ -237,7 +295,9 @@
   "AttackRatio": 132,
   "DefenseRatio": 136,
   "MinCPCap": 1138,
-  "MaxCPCap": 1405
+  "MaxCPCap": 1405,
+  "Type1": "Poison",
+  "Type2": ""
 }, {
   "Name": "Nidoqueen",
   "ID": 31,
@@ -245,7 +305,9 @@
   "AttackRatio": 184,
   "DefenseRatio": 190,
   "MinCPCap": 2125,
-  "MaxCPCap": 2485
+  "MaxCPCap": 2485,
+  "Type1": "Poison",
+  "Type2": "Ground"
 }, {
   "Name": "Nidoran M",
   "ID": 32,
@@ -253,7 +315,9 @@
   "AttackRatio": 110,
   "DefenseRatio": 94,
   "MinCPCap": 639,
-  "MaxCPCap": 843
+  "MaxCPCap": 843,
+  "Type1": "Poison",
+  "Type2": ""
 }, {
   "Name": "Nidorino",
   "ID": 33,
@@ -261,7 +325,9 @@
   "AttackRatio": 142,
   "DefenseRatio": 128,
   "MinCPCap": 1108,
-  "MaxCPCap": 1372
+  "MaxCPCap": 1372,
+  "Type1": "Poison",
+  "Type2": ""
 }, {
   "Name": "Nidoking",
   "ID": 34,
@@ -269,7 +335,9 @@
   "AttackRatio": 204,
   "DefenseRatio": 170,
   "MinCPCap": 2114,
-  "MaxCPCap": 2475
+  "MaxCPCap": 2475,
+  "Type1": "Poison",
+  "Type2": "Ground"
 }, {
   "Name": "Clefairy",
   "ID": 35,
@@ -277,7 +345,9 @@
   "AttackRatio": 116,
   "DefenseRatio": 124,
   "MinCPCap": 955,
-  "MaxCPCap": 1201
+  "MaxCPCap": 1201,
+  "Type1": "Fairy",
+  "Type2": ""
 }, {
   "Name": "Clefable",
   "ID": 36,
@@ -285,7 +355,9 @@
   "AttackRatio": 178,
   "DefenseRatio": 178,
   "MinCPCap": 2045,
-  "MaxCPCap": 2398
+  "MaxCPCap": 2398,
+  "Type1": "Fairy",
+  "Type2": ""
 }, {
   "Name": "Vulpix",
   "ID": 37,
@@ -293,7 +365,9 @@
   "AttackRatio": 106,
   "DefenseRatio": 118,
   "MinCPCap": 627,
-  "MaxCPCap": 831
+  "MaxCPCap": 831,
+  "Type1": "Fire",
+  "Type2": ""
 }, {
   "Name": "Ninetales",
   "ID": 38,
@@ -301,7 +375,9 @@
   "AttackRatio": 176,
   "DefenseRatio": 194,
   "MinCPCap": 1850,
-  "MaxCPCap": 2188
+  "MaxCPCap": 2188,
+  "Type1": "Fire",
+  "Type2": ""
 }, {
   "Name": "Jigglypuff",
   "ID": 39,
@@ -309,7 +385,9 @@
   "AttackRatio": 98,
   "DefenseRatio": 54,
   "MinCPCap": 682,
-  "MaxCPCap": 918
+  "MaxCPCap": 918,
+  "Type1": "Normal",
+  "Type2": "Fairy"
 }, {
   "Name": "Wigglytuff",
   "ID": 40,
@@ -317,7 +395,9 @@
   "AttackRatio": 168,
   "DefenseRatio": 108,
   "MinCPCap": 1825,
-  "MaxCPCap": 2177
+  "MaxCPCap": 2177,
+  "Type1": "Normal",
+  "Type2": "Fairy"
 }, {
   "Name": "Zubat",
   "ID": 41,
@@ -325,7 +405,9 @@
   "AttackRatio": 88,
   "DefenseRatio": 90,
   "MinCPCap": 466,
-  "MaxCPCap": 643
+  "MaxCPCap": 643,
+  "Type1": "Poison",
+  "Type2": "Flying"
 }, {
   "Name": "Golbat",
   "ID": 42,
@@ -333,7 +415,9 @@
   "AttackRatio": 164,
   "DefenseRatio": 164,
   "MinCPCap": 1607,
-  "MaxCPCap": 1921
+  "MaxCPCap": 1921,
+  "Type1": "Poison",
+  "Type2": "Flying"
 }, {
   "Name": "Oddish",
   "ID": 43,
@@ -341,7 +425,9 @@
   "AttackRatio": 134,
   "DefenseRatio": 130,
   "MinCPCap": 905,
-  "MaxCPCap": 1148
+  "MaxCPCap": 1148,
+  "Type1": "Grass",
+  "Type2": "Poison"
 }, {
   "Name": "Gloom",
   "ID": 44,
@@ -349,7 +435,9 @@
   "AttackRatio": 162,
   "DefenseRatio": 158,
   "MinCPCap": 1393,
-  "MaxCPCap": 1689
+  "MaxCPCap": 1689,
+  "Type1": "Grass",
+  "Type2": "Poison"
 }, {
   "Name": "Vileplume",
   "ID": 45,
@@ -357,7 +445,9 @@
   "AttackRatio": 202,
   "DefenseRatio": 190,
   "MinCPCap": 2130,
-  "MaxCPCap": 2493
+  "MaxCPCap": 2493,
+  "Type1": "Grass",
+  "Type2": "Poison"
 }, {
   "Name": "Paras",
   "ID": 46,
@@ -365,7 +455,9 @@
   "AttackRatio": 122,
   "DefenseRatio": 120,
   "MinCPCap": 698,
-  "MaxCPCap": 917
+  "MaxCPCap": 917,
+  "Type1": "Bug",
+  "Type2": "Grass"
 }, {
   "Name": "Parasect",
   "ID": 47,
@@ -373,7 +465,9 @@
   "AttackRatio": 162,
   "DefenseRatio": 170,
   "MinCPCap": 1445,
-  "MaxCPCap": 1747
+  "MaxCPCap": 1747,
+  "Type1": "Bug",
+  "Type2": "Grass"
 }, {
   "Name": "Venonat",
   "ID": 48,
@@ -381,7 +475,9 @@
   "AttackRatio": 108,
   "DefenseRatio": 118,
   "MinCPCap": 803,
-  "MaxCPCap": 1029
+  "MaxCPCap": 1029,
+  "Type1": "Bug",
+  "Type2": "Poison"
 }, {
   "Name": "Venomoth",
   "ID": 49,
@@ -389,7 +485,9 @@
   "AttackRatio": 172,
   "DefenseRatio": 154,
   "MinCPCap": 1577,
-  "MaxCPCap": 1890
+  "MaxCPCap": 1890,
+  "Type1": "Bug",
+  "Type2": "Poison"
 }, {
   "Name": "Diglett",
   "ID": 50,
@@ -397,7 +495,9 @@
   "AttackRatio": 108,
   "DefenseRatio": 86,
   "MinCPCap": 280,
-  "MaxCPCap": 457
+  "MaxCPCap": 457,
+  "Type1": "Ground",
+  "Type2": ""
 }, {
   "Name": "Dugtrio",
   "ID": 51,
@@ -405,7 +505,9 @@
   "AttackRatio": 148,
   "DefenseRatio": 140,
   "MinCPCap": 915,
-  "MaxCPCap": 1169
+  "MaxCPCap": 1169,
+  "Type1": "Ground",
+  "Type2": ""
 }, {
   "Name": "Meowth",
   "ID": 52,
@@ -413,7 +515,9 @@
   "AttackRatio": 104,
   "DefenseRatio": 94,
   "MinCPCap": 563,
-  "MaxCPCap": 756
+  "MaxCPCap": 756,
+  "Type1": "Normal",
+  "Type2": ""
 }, {
   "Name": "Persian",
   "ID": 53,
@@ -421,7 +525,9 @@
   "AttackRatio": 156,
   "DefenseRatio": 146,
   "MinCPCap": 1342,
-  "MaxCPCap": 1632
+  "MaxCPCap": 1632,
+  "Type1": "Normal",
+  "Type2": ""
 }, {
   "Name": "Psyduck",
   "ID": 54,
@@ -429,7 +535,9 @@
   "AttackRatio": 132,
   "DefenseRatio": 112,
   "MinCPCap": 873,
-  "MaxCPCap": 1110
+  "MaxCPCap": 1110,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Golduck",
   "ID": 55,
@@ -437,7 +545,9 @@
   "AttackRatio": 194,
   "DefenseRatio": 176,
   "MinCPCap": 2033,
-  "MaxCPCap": 2387
+  "MaxCPCap": 2387,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Mankey",
   "ID": 56,
@@ -445,7 +555,9 @@
   "AttackRatio": 122,
   "DefenseRatio": 96,
   "MinCPCap": 668,
-  "MaxCPCap": 879
+  "MaxCPCap": 879,
+  "Type1": "Fighting",
+  "Type2": ""
 }, {
   "Name": "Primeape",
   "ID": 57,
@@ -453,7 +565,9 @@
   "AttackRatio": 178,
   "DefenseRatio": 150,
   "MinCPCap": 1552,
-  "MaxCPCap": 1865
+  "MaxCPCap": 1865,
+  "Type1": "Fighting",
+  "Type2": ""
 }, {
   "Name": "Growlithe",
   "ID": 58,
@@ -461,7 +575,9 @@
   "AttackRatio": 156,
   "DefenseRatio": 110,
   "MinCPCap": 1072,
-  "MaxCPCap": 1335
+  "MaxCPCap": 1335,
+  "Type1": "Fire",
+  "Type2": ""
 }, {
   "Name": "Arcanine",
   "ID": 59,
@@ -469,7 +585,9 @@
   "AttackRatio": 230,
   "DefenseRatio": 180,
   "MinCPCap": 2586,
-  "MaxCPCap": 2984
+  "MaxCPCap": 2984,
+  "Type1": "Fire",
+  "Type2": ""
 }, {
   "Name": "Poliwag",
   "ID": 60,
@@ -477,7 +595,9 @@
   "AttackRatio": 108,
   "DefenseRatio": 98,
   "MinCPCap": 597,
-  "MaxCPCap": 796
+  "MaxCPCap": 796,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Poliwhirl",
   "ID": 61,
@@ -485,7 +605,9 @@
   "AttackRatio": 132,
   "DefenseRatio": 132,
   "MinCPCap": 1080,
-  "MaxCPCap": 1340
+  "MaxCPCap": 1340,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Poliwrath",
   "ID": 62,
@@ -493,7 +615,9 @@
   "AttackRatio": 180,
   "DefenseRatio": 202,
   "MinCPCap": 2144,
-  "MaxCPCap": 2505
+  "MaxCPCap": 2505,
+  "Type1": "Water",
+  "Type2": "Fighting"
 }, {
   "Name": "Abra",
   "ID": 63,
@@ -501,7 +625,9 @@
   "AttackRatio": 110,
   "DefenseRatio": 76,
   "MinCPCap": 424,
-  "MaxCPCap": 600
+  "MaxCPCap": 600,
+  "Type1": "Psychic",
+  "Type2": ""
 }, {
   "Name": "Kadabra",
   "ID": 64,
@@ -509,7 +635,9 @@
   "AttackRatio": 150,
   "DefenseRatio": 112,
   "MinCPCap": 887,
-  "MaxCPCap": 1132
+  "MaxCPCap": 1132,
+  "Type1": "Psychic",
+  "Type2": ""
 }, {
   "Name": "Alakazam",
   "ID": 65,
@@ -517,7 +645,9 @@
   "AttackRatio": 186,
   "DefenseRatio": 152,
   "MinCPCap": 1502,
-  "MaxCPCap": 1814
+  "MaxCPCap": 1814,
+  "Type1": "Psychic",
+  "Type2": ""
 }, {
   "Name": "Machop",
   "ID": 66,
@@ -525,7 +655,9 @@
   "AttackRatio": 118,
   "DefenseRatio": 96,
   "MinCPCap": 854,
-  "MaxCPCap": 1090
+  "MaxCPCap": 1090,
+  "Type1": "Fighting",
+  "Type2": ""
 }, {
   "Name": "Machoke",
   "ID": 67,
@@ -533,7 +665,9 @@
   "AttackRatio": 154,
   "DefenseRatio": 144,
   "MinCPCap": 1460,
-  "MaxCPCap": 1761
+  "MaxCPCap": 1761,
+  "Type1": "Fighting",
+  "Type2": ""
 }, {
   "Name": "Machamp",
   "ID": 68,
@@ -541,7 +675,9 @@
   "AttackRatio": 198,
   "DefenseRatio": 180,
   "MinCPCap": 2226,
-  "MaxCPCap": 2594
+  "MaxCPCap": 2594,
+  "Type1": "Fighting",
+  "Type2": ""
 }, {
   "Name": "Bellsprout",
   "ID": 69,
@@ -549,7 +685,9 @@
   "AttackRatio": 158,
   "DefenseRatio": 78,
   "MinCPCap": 872,
-  "MaxCPCap": 1117
+  "MaxCPCap": 1117,
+  "Type1": "Grass",
+  "Type2": "Poison"
 }, {
   "Name": "Weepinbell",
   "ID": 70,
@@ -557,7 +695,9 @@
   "AttackRatio": 190,
   "DefenseRatio": 110,
   "MinCPCap": 1419,
-  "MaxCPCap": 1724
+  "MaxCPCap": 1724,
+  "Type1": "Grass",
+  "Type2": "Poison"
 }, {
   "Name": "Victreebel",
   "ID": 71,
@@ -565,7 +705,9 @@
   "AttackRatio": 222,
   "DefenseRatio": 152,
   "MinCPCap": 2162,
-  "MaxCPCap": 2531
+  "MaxCPCap": 2531,
+  "Type1": "Grass",
+  "Type2": "Poison"
 }, {
   "Name": "Tentacool",
   "ID": 72,
@@ -573,7 +715,9 @@
   "AttackRatio": 106,
   "DefenseRatio": 136,
   "MinCPCap": 691,
-  "MaxCPCap": 905
+  "MaxCPCap": 905,
+  "Type1": "Water",
+  "Type2": "Poison"
 }, {
   "Name": "Tentacruel",
   "ID": 73,
@@ -581,7 +725,9 @@
   "AttackRatio": 170,
   "DefenseRatio": 196,
   "MinCPCap": 1880,
-  "MaxCPCap": 2220
+  "MaxCPCap": 2220,
+  "Type1": "Water",
+  "Type2": "Poison"
 }, {
   "Name": "Geodude",
   "ID": 74,
@@ -589,7 +735,9 @@
   "AttackRatio": 106,
   "DefenseRatio": 118,
   "MinCPCap": 643,
-  "MaxCPCap": 849
+  "MaxCPCap": 849,
+  "Type1": "Rock",
+  "Type2": "Ground"
 }, {
   "Name": "Graveler",
   "ID": 75,
@@ -597,7 +745,9 @@
   "AttackRatio": 142,
   "DefenseRatio": 156,
   "MinCPCap": 1162,
-  "MaxCPCap": 1434
+  "MaxCPCap": 1434,
+  "Type1": "Rock",
+  "Type2": "Ground"
 }, {
   "Name": "Golem",
   "ID": 76,
@@ -605,7 +755,9 @@
   "AttackRatio": 176,
   "DefenseRatio": 198,
   "MinCPCap": 1957,
-  "MaxCPCap": 2303
+  "MaxCPCap": 2303,
+  "Type1": "Rock",
+  "Type2": "Ground"
 }, {
   "Name": "Ponyta",
   "ID": 77,
@@ -613,7 +765,9 @@
   "AttackRatio": 168,
   "DefenseRatio": 138,
   "MinCPCap": 1233,
-  "MaxCPCap": 1516
+  "MaxCPCap": 1516,
+  "Type1": "Fire",
+  "Type2": ""
 }, {
   "Name": "Rapidash",
   "ID": 78,
@@ -621,7 +775,9 @@
   "AttackRatio": 200,
   "DefenseRatio": 170,
   "MinCPCap": 1857,
-  "MaxCPCap": 2199
+  "MaxCPCap": 2199,
+  "Type1": "Fire",
+  "Type2": ""
 }, {
   "Name": "Slowpoke",
   "ID": 79,
@@ -629,7 +785,9 @@
   "AttackRatio": 110,
   "DefenseRatio": 110,
   "MinCPCap": 967,
-  "MaxCPCap": 1219
+  "MaxCPCap": 1219,
+  "Type1": "Water",
+  "Type2": "Psychic"
 }, {
   "Name": "Slowbro",
   "ID": 80,
@@ -637,7 +795,9 @@
   "AttackRatio": 184,
   "DefenseRatio": 198,
   "MinCPCap": 2229,
-  "MaxCPCap": 2597
+  "MaxCPCap": 2597,
+  "Type1": "Water",
+  "Type2": "Psychic"
 }, {
   "Name": "Magnemite",
   "ID": 81,
@@ -645,7 +805,9 @@
   "AttackRatio": 128,
   "DefenseRatio": 138,
   "MinCPCap": 664,
-  "MaxCPCap": 891
+  "MaxCPCap": 891,
+  "Type1": "Electric",
+  "Type2": "Steel"
 }, {
   "Name": "Magneton",
   "ID": 82,
@@ -653,7 +815,9 @@
   "AttackRatio": 186,
   "DefenseRatio": 180,
   "MinCPCap": 1559,
-  "MaxCPCap": 1880
+  "MaxCPCap": 1880,
+  "Type1": "Electric",
+  "Type2": "Steel"
 }, {
   "Name": "Farfetch'd",
   "ID": 83,
@@ -661,7 +825,9 @@
   "AttackRatio": 138,
   "DefenseRatio": 132,
   "MinCPCap": 1010,
-  "MaxCPCap": 1264
+  "MaxCPCap": 1264,
+  "Type1": "Normal",
+  "Type2": "Flying"
 }, {
   "Name": "Doduo",
   "ID": 84,
@@ -669,7 +835,9 @@
   "AttackRatio": 126,
   "DefenseRatio": 96,
   "MinCPCap": 645,
-  "MaxCPCap": 855
+  "MaxCPCap": 855,
+  "Type1": "Normal",
+  "Type2": "Flying"
 }, {
   "Name": "Dodrio",
   "ID": 85,
@@ -677,7 +845,9 @@
   "AttackRatio": 182,
   "DefenseRatio": 150,
   "MinCPCap": 1525,
-  "MaxCPCap": 1836
+  "MaxCPCap": 1836,
+  "Type1": "Normal",
+  "Type2": "Flying"
 }, {
   "Name": "Seel",
   "ID": 86,
@@ -685,7 +855,9 @@
   "AttackRatio": 104,
   "DefenseRatio": 138,
   "MinCPCap": 870,
-  "MaxCPCap": 1107
+  "MaxCPCap": 1107,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Dewgong",
   "ID": 87,
@@ -693,7 +865,9 @@
   "AttackRatio": 156,
   "DefenseRatio": 192,
   "MinCPCap": 1811,
-  "MaxCPCap": 2146
+  "MaxCPCap": 2146,
+  "Type1": "Water",
+  "Type2": "Ice"
 }, {
   "Name": "Grimer",
   "ID": 88,
@@ -701,7 +875,9 @@
   "AttackRatio": 124,
   "DefenseRatio": 110,
   "MinCPCap": 1027,
-  "MaxCPCap": 1284
+  "MaxCPCap": 1284,
+  "Type1": "Poison",
+  "Type2": ""
 }, {
   "Name": "Muk",
   "ID": 89,
@@ -709,7 +885,9 @@
   "AttackRatio": 180,
   "DefenseRatio": 188,
   "MinCPCap": 2234,
-  "MaxCPCap": 2603
+  "MaxCPCap": 2603,
+  "Type1": "Poison",
+  "Type2": ""
 }, {
   "Name": "Shellder",
   "ID": 90,
@@ -717,7 +895,9 @@
   "AttackRatio": 120,
   "DefenseRatio": 112,
   "MinCPCap": 614,
-  "MaxCPCap": 823
+  "MaxCPCap": 823,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Cloyster",
   "ID": 91,
@@ -725,7 +905,9 @@
   "AttackRatio": 196,
   "DefenseRatio": 196,
   "MinCPCap": 1714,
-  "MaxCPCap": 2053
+  "MaxCPCap": 2053,
+  "Type1": "Water",
+  "Type2": "Ice"
 }, {
   "Name": "Gastly",
   "ID": 92,
@@ -733,7 +915,9 @@
   "AttackRatio": 136,
   "DefenseRatio": 82,
   "MinCPCap": 596,
-  "MaxCPCap": 804
+  "MaxCPCap": 804,
+  "Type1": "Ghost",
+  "Type2": "Poison"
 }, {
   "Name": "Haunter",
   "ID": 93,
@@ -741,7 +925,9 @@
   "AttackRatio": 172,
   "DefenseRatio": 118,
   "MinCPCap": 1107,
-  "MaxCPCap": 1380
+  "MaxCPCap": 1380,
+  "Type1": "Ghost",
+  "Type2": "Poison"
 }, {
   "Name": "Gengar",
   "ID": 94,
@@ -749,7 +935,9 @@
   "AttackRatio": 204,
   "DefenseRatio": 156,
   "MinCPCap": 1743,
-  "MaxCPCap": 2078
+  "MaxCPCap": 2078,
+  "Type1": "Ghost",
+  "Type2": "Poison"
 }, {
   "Name": "Onix",
   "ID": 95,
@@ -757,7 +945,9 @@
   "AttackRatio": 90,
   "DefenseRatio": 186,
   "MinCPCap": 641,
-  "MaxCPCap": 857
+  "MaxCPCap": 857,
+  "Type1": "Rock",
+  "Type2": "Ground"
 }, {
   "Name": "Drowzee",
   "ID": 96,
@@ -765,7 +955,9 @@
   "AttackRatio": 104,
   "DefenseRatio": 140,
   "MinCPCap": 842,
-  "MaxCPCap": 1075
+  "MaxCPCap": 1075,
+  "Type1": "Psychic",
+  "Type2": ""
 }, {
   "Name": "Hypno",
   "ID": 97,
@@ -773,7 +965,9 @@
   "AttackRatio": 162,
   "DefenseRatio": 196,
   "MinCPCap": 1847,
-  "MaxCPCap": 2184
+  "MaxCPCap": 2184,
+  "Type1": "Psychic",
+  "Type2": ""
 }, {
   "Name": "Krabby",
   "ID": 98,
@@ -781,7 +975,9 @@
   "AttackRatio": 116,
   "DefenseRatio": 110,
   "MinCPCap": 589,
-  "MaxCPCap": 792
+  "MaxCPCap": 792,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Kingler",
   "ID": 99,
@@ -789,7 +985,9 @@
   "AttackRatio": 178,
   "DefenseRatio": 168,
   "MinCPCap": 1511,
-  "MaxCPCap": 1823
+  "MaxCPCap": 1823,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Voltorb",
   "ID": 100,
@@ -797,7 +995,9 @@
   "AttackRatio": 102,
   "DefenseRatio": 124,
   "MinCPCap": 635,
-  "MaxCPCap": 840
+  "MaxCPCap": 840,
+  "Type1": "Electric",
+  "Type2": ""
 }, {
   "Name": "Electrode",
   "ID": 101,
@@ -805,7 +1005,9 @@
   "AttackRatio": 150,
   "DefenseRatio": 174,
   "MinCPCap": 1354,
-  "MaxCPCap": 1646
+  "MaxCPCap": 1646,
+  "Type1": "Electric",
+  "Type2": ""
 }, {
   "Name": "Exeggcute",
   "ID": 102,
@@ -813,7 +1015,9 @@
   "AttackRatio": 110,
   "DefenseRatio": 132,
   "MinCPCap": 865,
-  "MaxCPCap": 1100
+  "MaxCPCap": 1100,
+  "Type1": "Grass",
+  "Type2": "Psychic"
 }, {
   "Name": "Exeggutor",
   "ID": 103,
@@ -821,7 +1025,9 @@
   "AttackRatio": 232,
   "DefenseRatio": 164,
   "MinCPCap": 2558,
-  "MaxCPCap": 2955
+  "MaxCPCap": 2955,
+  "Type1": "Grass",
+  "Type2": "Psychic"
 }, {
   "Name": "Cubone",
   "ID": 104,
@@ -829,7 +1035,9 @@
   "AttackRatio": 102,
   "DefenseRatio": 150,
   "MinCPCap": 780,
-  "MaxCPCap": 1007
+  "MaxCPCap": 1007,
+  "Type1": "Ground",
+  "Type2": ""
 }, {
   "Name": "Marowak",
   "ID": 105,
@@ -837,7 +1045,9 @@
   "AttackRatio": 140,
   "DefenseRatio": 202,
   "MinCPCap": 1361,
-  "MaxCPCap": 1657
+  "MaxCPCap": 1657,
+  "Type1": "Ground",
+  "Type2": ""
 }, {
   "Name": "Hitmonlee",
   "ID": 106,
@@ -845,7 +1055,9 @@
   "AttackRatio": 148,
   "DefenseRatio": 172,
   "MinCPCap": 1212,
-  "MaxCPCap": 1493
+  "MaxCPCap": 1493,
+  "Type1": "Fighting",
+  "Type2": ""
 }, {
   "Name": "Hitmonchan",
   "ID": 107,
@@ -853,7 +1065,9 @@
   "AttackRatio": 138,
   "DefenseRatio": 204,
   "MinCPCap": 1231,
-  "MaxCPCap": 1517
+  "MaxCPCap": 1517,
+  "Type1": "Fighting",
+  "Type2": ""
 }, {
   "Name": "Lickitung",
   "ID": 108,
@@ -861,7 +1075,9 @@
   "AttackRatio": 126,
   "DefenseRatio": 160,
   "MinCPCap": 1336,
-  "MaxCPCap": 1627
+  "MaxCPCap": 1627,
+  "Type1": "Normal",
+  "Type2": ""
 }, {
   "Name": "Koffing",
   "ID": 109,
@@ -869,7 +1085,9 @@
   "AttackRatio": 136,
   "DefenseRatio": 142,
   "MinCPCap": 905,
-  "MaxCPCap": 1152
+  "MaxCPCap": 1152,
+  "Type1": "Poison",
+  "Type2": ""
 }, {
   "Name": "Weezing",
   "ID": 110,
@@ -877,7 +1095,9 @@
   "AttackRatio": 190,
   "DefenseRatio": 198,
   "MinCPCap": 1904,
-  "MaxCPCap": 2250
+  "MaxCPCap": 2250,
+  "Type1": "Poison",
+  "Type2": ""
 }, {
   "Name": "Rhyhorn",
   "ID": 111,
@@ -885,7 +1105,9 @@
   "AttackRatio": 110,
   "DefenseRatio": 116,
   "MinCPCap": 936,
-  "MaxCPCap": 1182
+  "MaxCPCap": 1182,
+  "Type1": "Ground",
+  "Type2": "Rock"
 }, {
   "Name": "Rhydon",
   "ID": 112,
@@ -893,7 +1115,9 @@
   "AttackRatio": 166,
   "DefenseRatio": 160,
   "MinCPCap": 1900,
-  "MaxCPCap": 2243
+  "MaxCPCap": 2243,
+  "Type1": "Ground",
+  "Type2": "Rock"
 }, {
   "Name": "Chansey",
   "ID": 113,
@@ -901,7 +1125,9 @@
   "AttackRatio": 40,
   "DefenseRatio": 60,
   "MinCPCap": 433,
-  "MaxCPCap": 675
+  "MaxCPCap": 675,
+  "Type1": "Normal",
+  "Type2": ""
 }, {
   "Name": "Tangela",
   "ID": 114,
@@ -909,7 +1135,9 @@
   "AttackRatio": 164,
   "DefenseRatio": 152,
   "MinCPCap": 1440,
-  "MaxCPCap": 1740
+  "MaxCPCap": 1740,
+  "Type1": "Grass",
+  "Type2": ""
 }, {
   "Name": "Kangaskhan",
   "ID": 115,
@@ -917,7 +1145,9 @@
   "AttackRatio": 142,
   "DefenseRatio": 178,
   "MinCPCap": 1715,
-  "MaxCPCap": 2043
+  "MaxCPCap": 2043,
+  "Type1": "Normal",
+  "Type2": ""
 }, {
   "Name": "Horsea",
   "ID": 116,
@@ -925,7 +1155,9 @@
   "AttackRatio": 122,
   "DefenseRatio": 100,
   "MinCPCap": 590,
-  "MaxCPCap": 795
+  "MaxCPCap": 795,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Seadra",
   "ID": 117,
@@ -933,7 +1165,9 @@
   "AttackRatio": 176,
   "DefenseRatio": 150,
   "MinCPCap": 1412,
-  "MaxCPCap": 1713
+  "MaxCPCap": 1713,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Goldeen",
   "ID": 118,
@@ -941,7 +1175,9 @@
   "AttackRatio": 112,
   "DefenseRatio": 126,
   "MinCPCap": 745,
-  "MaxCPCap": 965
+  "MaxCPCap": 965,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Seaking",
   "ID": 119,
@@ -949,7 +1185,9 @@
   "AttackRatio": 172,
   "DefenseRatio": 160,
   "MinCPCap": 1719,
-  "MaxCPCap": 2044
+  "MaxCPCap": 2044,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Staryu",
   "ID": 120,
@@ -957,7 +1195,9 @@
   "AttackRatio": 130,
   "DefenseRatio": 128,
   "MinCPCap": 712,
-  "MaxCPCap": 938
+  "MaxCPCap": 938,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Starmie",
   "ID": 121,
@@ -965,7 +1205,9 @@
   "AttackRatio": 194,
   "DefenseRatio": 192,
   "MinCPCap": 1839,
-  "MaxCPCap": 2182
+  "MaxCPCap": 2182,
+  "Type1": "Water",
+  "Type2": "Psychic"
 }, {
   "Name": "Mr. Mime",
   "ID": 122,
@@ -973,7 +1215,9 @@
   "AttackRatio": 154,
   "DefenseRatio": 196,
   "MinCPCap": 1204,
-  "MaxCPCap": 1494
+  "MaxCPCap": 1494,
+  "Type1": "Psychic",
+  "Type2": ""
 }, {
   "Name": "Scyther",
   "ID": 123,
@@ -981,7 +1225,9 @@
   "AttackRatio": 176,
   "DefenseRatio": 180,
   "MinCPCap": 1745,
-  "MaxCPCap": 2074
+  "MaxCPCap": 2074,
+  "Type1": "Bug",
+  "Type2": "Flying"
 }, {
   "Name": "Jynx",
   "ID": 124,
@@ -989,7 +1235,9 @@
   "AttackRatio": 172,
   "DefenseRatio": 134,
   "MinCPCap": 1418,
-  "MaxCPCap": 1717
+  "MaxCPCap": 1717,
+  "Type1": "Ice",
+  "Type2": "Psychic"
 }, {
   "Name": "Electabuzz",
   "ID": 125,
@@ -997,7 +1245,9 @@
   "AttackRatio": 198,
   "DefenseRatio": 160,
   "MinCPCap": 1784,
-  "MaxCPCap": 2119
+  "MaxCPCap": 2119,
+  "Type1": "Electric",
+  "Type2": ""
 }, {
   "Name": "Magmar",
   "ID": 126,
@@ -1005,7 +1255,9 @@
   "AttackRatio": 214,
   "DefenseRatio": 158,
   "MinCPCap": 1916,
-  "MaxCPCap": 2265
+  "MaxCPCap": 2265,
+  "Type1": "Fire",
+  "Type2": ""
 }, {
   "Name": "Pinsir",
   "ID": 127,
@@ -1013,7 +1265,9 @@
   "AttackRatio": 184,
   "DefenseRatio": 186,
   "MinCPCap": 1787,
-  "MaxCPCap": 2122
+  "MaxCPCap": 2122,
+  "Type1": "Bug",
+  "Type2": ""
 }, {
   "Name": "Tauros",
   "ID": 128,
@@ -1021,7 +1275,9 @@
   "AttackRatio": 148,
   "DefenseRatio": 184,
   "MinCPCap": 1536,
-  "MaxCPCap": 1845
+  "MaxCPCap": 1845,
+  "Type1": "Normal",
+  "Type2": ""
 }, {
   "Name": "Magikarp",
   "ID": 129,
@@ -1029,7 +1285,9 @@
   "AttackRatio": 42,
   "DefenseRatio": 84,
   "MinCPCap": 152,
-  "MaxCPCap": 263
+  "MaxCPCap": 263,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Gyarados",
   "ID": 130,
@@ -1037,7 +1295,9 @@
   "AttackRatio": 192,
   "DefenseRatio": 196,
   "MinCPCap": 2314,
-  "MaxCPCap": 2689
+  "MaxCPCap": 2689,
+  "Type1": "Water",
+  "Type2": "Flying"
 }, {
   "Name": "Lapras",
   "ID": 131,
@@ -1045,7 +1305,9 @@
   "AttackRatio": 186,
   "DefenseRatio": 190,
   "MinCPCap": 2582,
-  "MaxCPCap": 2981
+  "MaxCPCap": 2981,
+  "Type1": "Water",
+  "Type2": "Ice"
 }, {
   "Name": "Ditto",
   "ID": 132,
@@ -1053,7 +1315,9 @@
   "AttackRatio": 110,
   "DefenseRatio": 110,
   "MinCPCap": 706,
-  "MaxCPCap": 920
+  "MaxCPCap": 920,
+  "Type1": "Normal",
+  "Type2": ""
 }, {
   "Name": "Eevee",
   "ID": 133,
@@ -1061,7 +1325,9 @@
   "AttackRatio": 114,
   "DefenseRatio": 128,
   "MinCPCap": 845,
-  "MaxCPCap": 1077
+  "MaxCPCap": 1077,
+  "Type1": "Normal",
+  "Type2": ""
 }, {
   "Name": "Vaporeon",
   "ID": 134,
@@ -1069,7 +1335,9 @@
   "AttackRatio": 186,
   "DefenseRatio": 168,
   "MinCPCap": 2428,
-  "MaxCPCap": 2816
+  "MaxCPCap": 2816,
+  "Type1": "Water",
+  "Type2": ""
 }, {
   "Name": "Jolteon",
   "ID": 135,
@@ -1077,7 +1345,9 @@
   "AttackRatio": 192,
   "DefenseRatio": 174,
   "MinCPCap": 1804,
-  "MaxCPCap": 2140
+  "MaxCPCap": 2140,
+  "Type1": "Electric",
+  "Type2": ""
 }, {
   "Name": "Flareon",
   "ID": 136,
@@ -1085,7 +1355,9 @@
   "AttackRatio": 238,
   "DefenseRatio": 178,
   "MinCPCap": 2261,
-  "MaxCPCap": 2643
+  "MaxCPCap": 2643,
+  "Type1": "Fire",
+  "Type2": ""
 }, {
   "Name": "Porygon",
   "ID": 137,
@@ -1093,7 +1365,9 @@
   "AttackRatio": 156,
   "DefenseRatio": 158,
   "MinCPCap": 1396,
-  "MaxCPCap": 1692
+  "MaxCPCap": 1692,
+  "Type1": "Normal",
+  "Type2": ""
 }, {
   "Name": "Omanyte",
   "ID": 138,
@@ -1101,7 +1375,9 @@
   "AttackRatio": 132,
   "DefenseRatio": 160,
   "MinCPCap": 873,
-  "MaxCPCap": 1120
+  "MaxCPCap": 1120,
+  "Type1": "Rock",
+  "Type2": "Water"
 }, {
   "Name": "Omastar",
   "ID": 139,
@@ -1109,7 +1385,9 @@
   "AttackRatio": 180,
   "DefenseRatio": 202,
   "MinCPCap": 1891,
-  "MaxCPCap": 2234
+  "MaxCPCap": 2234,
+  "Type1": "Rock",
+  "Type2": "Water"
 }, {
   "Name": "Kabuto",
   "ID": 140,
@@ -1117,7 +1395,9 @@
   "AttackRatio": 148,
   "DefenseRatio": 142,
   "MinCPCap": 853,
-  "MaxCPCap": 1105
+  "MaxCPCap": 1105,
+  "Type1": "Rock",
+  "Type2": "Water"
 }, {
   "Name": "Kabutops",
   "ID": 141,
@@ -1125,7 +1405,9 @@
   "AttackRatio": 190,
   "DefenseRatio": 190,
   "MinCPCap": 1792,
-  "MaxCPCap": 2130
+  "MaxCPCap": 2130,
+  "Type1": "Rock",
+  "Type2": "Water"
 }, {
   "Name": "Aerodactyl",
   "ID": 142,
@@ -1133,7 +1415,9 @@
   "AttackRatio": 182,
   "DefenseRatio": 162,
   "MinCPCap": 1830,
-  "MaxCPCap": 2165
+  "MaxCPCap": 2165,
+  "Type1": "Rock",
+  "Type2": "Flying"
 }, {
   "Name": "Snorlax",
   "ID": 143,
@@ -1141,7 +1425,9 @@
   "AttackRatio": 180,
   "DefenseRatio": 180,
   "MinCPCap": 2698,
-  "MaxCPCap": 3113
+  "MaxCPCap": 3113,
+  "Type1": "Normal",
+  "Type2": ""
 }, {
   "Name": "Articuno",
   "ID": 144,
@@ -1149,7 +1435,9 @@
   "AttackRatio": 198,
   "DefenseRatio": 242,
   "MinCPCap": 2581,
-  "MaxCPCap": 2978
+  "MaxCPCap": 2978,
+  "Type1": "Ice",
+  "Type2": "Flying"
 }, {
   "Name": "Zapdos",
   "ID": 145,
@@ -1157,7 +1445,9 @@
   "AttackRatio": 232,
   "DefenseRatio": 194,
   "MinCPCap": 2708,
-  "MaxCPCap": 3114
+  "MaxCPCap": 3114,
+  "Type1": "Electric",
+  "Type2": "Flying"
 }, {
   "Name": "Moltres",
   "ID": 146,
@@ -1165,7 +1455,9 @@
   "AttackRatio": 242,
   "DefenseRatio": 194,
   "MinCPCap": 2824,
-  "MaxCPCap": 3240
+  "MaxCPCap": 3240,
+  "Type1": "Fire",
+  "Type2": "Flying"
 }, {
   "Name": "Dratini",
   "ID": 147,
@@ -1173,7 +1465,9 @@
   "AttackRatio": 128,
   "DefenseRatio": 110,
   "MinCPCap": 759,
-  "MaxCPCap": 983
+  "MaxCPCap": 983,
+  "Type1": "Dragon",
+  "Type2": ""
 }, {
   "Name": "Dragonair",
   "ID": 148,
@@ -1181,7 +1475,9 @@
   "AttackRatio": 170,
   "DefenseRatio": 152,
   "MinCPCap": 1446,
-  "MaxCPCap": 1748
+  "MaxCPCap": 1748,
+  "Type1": "Dragon",
+  "Type2": ""
 }, {
   "Name": "Dragonite",
   "ID": 149,
@@ -1189,7 +1485,9 @@
   "AttackRatio": 250,
   "DefenseRatio": 212,
   "MinCPCap": 3067,
-  "MaxCPCap": 3500
+  "MaxCPCap": 3500,
+  "Type1": "Dragon",
+  "Type2": "Flying"
 }, {
   "Name": "Mewtwo",
   "ID": 150,
@@ -1197,7 +1495,9 @@
   "AttackRatio": 284,
   "DefenseRatio": 202,
   "MinCPCap": 3671,
-  "MaxCPCap": 4145
+  "MaxCPCap": 4145,
+  "Type1": "Psychic",
+  "Type2": ""
 }, {
   "Name": "Mew",
   "ID": 151,
@@ -1205,5 +1505,7 @@
   "AttackRatio": 220,
   "DefenseRatio": 220,
   "MinCPCap": 2882,
-  "MaxCPCap": 3299
+  "MaxCPCap": 3299,
+  "Type1": "Psychic",
+  "Type2": ""
 }]
