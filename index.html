@@ -16,7 +16,8 @@
     <script src="./bower_components/angular-messages/angular-messages.min.js"></script>
     <script src="./bower_components/angular-material/angular-material.min.js"></script>
     <script src="./bower_components/angular-tablesort/js/angular-tablesort.js"></script>
-    <script src="./app/app.js"></script>
+    <script src="./app/app.js"></script>.
+    <script src="./app/advancedController.js"></script>
     <script src="./app/basicController.js"></script>
     <script src="./app/chargedController.js"></script>
     <script src="./app/speciesController.js"></script>
@@ -28,6 +29,24 @@
     <md-content>
       <h1>- Pokemon Full Rater -</h1>
       <md-tabs md-dynamic-height md-border-bottom>
+        <md-tab label="Advanced Stats">
+          <table ng-controller="AdvancedController as advanced" ts-wrapper>
+            <tr>
+              <th ts-criteria="ID" ts-default>ID</th>
+              <th ts-criteria="Name">Name</th>
+              <th ts-criteria="Type1">Type 1</th>
+              <th ts-criteria="Type2">Type 2</th>
+            </tr>
+            <tr ng-repeat="value in advanced.speciesAttacks" ts-repeat>
+              <td>{{value.ID}}</td>
+              <td>{{advanced.speciesData[value.ID - 1].Name}}</td>
+              <td colspan="{{advanced.speciesData[value.ID - 1].Type2 === '' ? 2 : 1}}" class="{{advanced.speciesData[value.ID - 1].Type1.toLowerCase()}} type">{{advanced.speciesData[value.ID - 1].Type1}}</td>
+              <td ng-if="advanced.speciesData[value.ID - 1].Type2 !== ''" class="{{advanced.speciesData[value.ID - 1].Type2.toLowerCase()}} type">{{advanced.speciesData[value.ID - 1].Type2}}</td>
+            </tr>
+            <tr>
+            </tr>
+          </table>
+        </md-tab>
         <md-tab label="Basic Moves">
           <table ng-controller="BasicController as basic" ts-wrapper>
             <tr>

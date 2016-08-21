@@ -1,0 +1,3369 @@
+[{
+  "ID": 1,
+  "Move1": "Tackle",
+  "Move2": "Power Whip"
+}, {
+  "ID": 1,
+  "Move1": "Tackle",
+  "Move2": "Seed Bomb"
+}, {
+  "ID": 1,
+  "Move1": "Tackle",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 1,
+  "Move1": "Vine Whip",
+  "Move2": "Power Whip"
+}, {
+  "ID": 1,
+  "Move1": "Vine Whip",
+  "Move2": "Seed Bomb"
+}, {
+  "ID": 1,
+  "Move1": "Vine Whip",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 2,
+  "Move1": "Razor Leaf",
+  "Move2": "Power Whip"
+}, {
+  "ID": 2,
+  "Move1": "Razor Leaf",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 2,
+  "Move1": "Razor Leaf",
+  "Move2": "Solar Beam"
+}, {
+  "ID": 2,
+  "Move1": "Vine Whip",
+  "Move2": "Power Whip"
+}, {
+  "ID": 2,
+  "Move1": "Vine Whip",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 2,
+  "Move1": "Vine Whip",
+  "Move2": "Solar Beam"
+}, {
+  "ID": 3,
+  "Move1": "Razor Leaf",
+  "Move2": "Petal Blizzard"
+}, {
+  "ID": 3,
+  "Move1": "Razor Leaf",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 3,
+  "Move1": "Razor Leaf",
+  "Move2": "Solar Beam"
+}, {
+  "ID": 3,
+  "Move1": "Vine Whip",
+  "Move2": "Petal Blizzard"
+}, {
+  "ID": 3,
+  "Move1": "Vine Whip",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 3,
+  "Move1": "Vine Whip",
+  "Move2": "Solar Beam"
+}, {
+  "ID": 4,
+  "Move1": "Ember",
+  "Move2": "Flame Burst"
+}, {
+  "ID": 4,
+  "Move1": "Ember",
+  "Move2": "Flame Charge"
+}, {
+  "ID": 4,
+  "Move1": "Ember",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 4,
+  "Move1": "Scratch",
+  "Move2": "Flame Burst"
+}, {
+  "ID": 4,
+  "Move1": "Scratch",
+  "Move2": "Flame Charge"
+}, {
+  "ID": 4,
+  "Move1": "Scratch",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 5,
+  "Move1": "Ember",
+  "Move2": "Fire Punch"
+}, {
+  "ID": 5,
+  "Move1": "Ember",
+  "Move2": "Flame Burst"
+}, {
+  "ID": 5,
+  "Move1": "Ember",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 5,
+  "Move1": "Scratch",
+  "Move2": "Fire Punch"
+}, {
+  "ID": 5,
+  "Move1": "Scratch",
+  "Move2": "Flame Burst"
+}, {
+  "ID": 5,
+  "Move1": "Scratch",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 6,
+  "Move1": "Ember",
+  "Move2": "Dragon Claw"
+}, {
+  "ID": 6,
+  "Move1": "Ember",
+  "Move2": "Fire Blast"
+}, {
+  "ID": 6,
+  "Move1": "Ember",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 6,
+  "Move1": "Wing Attack",
+  "Move2": "Dragon Claw"
+}, {
+  "ID": 6,
+  "Move1": "Wing Attack",
+  "Move2": "Fire Blast"
+}, {
+  "ID": 6,
+  "Move1": "Wing Attack",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 7,
+  "Move1": "Bubble",
+  "Move2": "Aqua Jet"
+}, {
+  "ID": 7,
+  "Move1": "Bubble",
+  "Move2": "Aqua Tail"
+}, {
+  "ID": 7,
+  "Move1": "Bubble",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 7,
+  "Move1": "Tackle",
+  "Move2": "Aqua Jet"
+}, {
+  "ID": 7,
+  "Move1": "Tackle",
+  "Move2": "Aqua Tail"
+}, {
+  "ID": 7,
+  "Move1": "Tackle",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 8,
+  "Move1": "Bite",
+  "Move2": "Aqua Jet"
+}, {
+  "ID": 8,
+  "Move1": "Bite",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 8,
+  "Move1": "Bite",
+  "Move2": "Ice Beam"
+}, {
+  "ID": 8,
+  "Move1": "Water Gun",
+  "Move2": "Aqua Jet"
+}, {
+  "ID": 8,
+  "Move1": "Water Gun",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 8,
+  "Move1": "Water Gun",
+  "Move2": "Ice Beam"
+}, {
+  "ID": 9,
+  "Move1": "Bite",
+  "Move2": "Flash Cannon"
+}, {
+  "ID": 9,
+  "Move1": "Bite",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 9,
+  "Move1": "Bite",
+  "Move2": "Ice Beam"
+}, {
+  "ID": 9,
+  "Move1": "Water Gun",
+  "Move2": "Flash Cannon"
+}, {
+  "ID": 9,
+  "Move1": "Water Gun",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 9,
+  "Move1": "Water Gun",
+  "Move2": "Ice Beam"
+}, {
+  "ID": 10,
+  "Move1": "Bug Bite",
+  "Move2": "Struggle"
+}, {
+  "ID": 10,
+  "Move1": "Tackle",
+  "Move2": "Struggle"
+}, {
+  "ID": 11,
+  "Move1": "Bug Bite",
+  "Move2": "Struggle"
+}, {
+  "ID": 11,
+  "Move1": "Tackle",
+  "Move2": "Struggle"
+}, {
+  "ID": 12,
+  "Move1": "Bug Bite",
+  "Move2": "Bug Buzz"
+}, {
+  "ID": 12,
+  "Move1": "Bug Bite",
+  "Move2": "Psychic"
+}, {
+  "ID": 12,
+  "Move1": "Bug Bite",
+  "Move2": "Signal Beam"
+}, {
+  "ID": 12,
+  "Move1": "Confusion",
+  "Move2": "Bug Buzz"
+}, {
+  "ID": 12,
+  "Move1": "Confusion",
+  "Move2": "Psychic"
+}, {
+  "ID": 12,
+  "Move1": "Confusion",
+  "Move2": "Signal Beam"
+}, {
+  "ID": 13,
+  "Move1": "Bug Bite",
+  "Move2": "Struggle"
+}, {
+  "ID": 13,
+  "Move1": "Poison Sting",
+  "Move2": "Struggle"
+}, {
+  "ID": 14,
+  "Move1": "Bug Bite",
+  "Move2": "Struggle"
+}, {
+  "ID": 14,
+  "Move1": "Poison Sting",
+  "Move2": "Struggle"
+}, {
+  "ID": 15,
+  "Move1": "Bug Bite",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 15,
+  "Move1": "Bug Bite",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 15,
+  "Move1": "Bug Bite",
+  "Move2": "X-Scissor"
+}, {
+  "ID": 15,
+  "Move1": "Poison Jab",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 15,
+  "Move1": "Poison Jab",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 15,
+  "Move1": "Poison Jab",
+  "Move2": "X-Scissor"
+}, {
+  "ID": 16,
+  "Move1": "Quick Attack",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 16,
+  "Move1": "Quick Attack",
+  "Move2": "Air Cutter"
+}, {
+  "ID": 16,
+  "Move1": "Quick Attack",
+  "Move2": "Twister"
+}, {
+  "ID": 16,
+  "Move1": "Tackle",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 16,
+  "Move1": "Tackle",
+  "Move2": "Air Cutter"
+}, {
+  "ID": 16,
+  "Move1": "Tackle",
+  "Move2": "Twister"
+}, {
+  "ID": 17,
+  "Move1": "Steel Wing",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 17,
+  "Move1": "Steel Wing",
+  "Move2": "Air Cutter"
+}, {
+  "ID": 17,
+  "Move1": "Steel Wing",
+  "Move2": "Twister"
+}, {
+  "ID": 17,
+  "Move1": "Wing Attack",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 17,
+  "Move1": "Wing Attack",
+  "Move2": "Air Cutter"
+}, {
+  "ID": 17,
+  "Move1": "Wing Attack",
+  "Move2": "Twister"
+}, {
+  "ID": 18,
+  "Move1": "Steel Wing",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 18,
+  "Move1": "Steel Wing",
+  "Move2": "Air Cutter"
+}, {
+  "ID": 18,
+  "Move1": "Steel Wing",
+  "Move2": "Hurricane"
+}, {
+  "ID": 18,
+  "Move1": "Wing Attack",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 18,
+  "Move1": "Wing Attack",
+  "Move2": "Air Cutter"
+}, {
+  "ID": 18,
+  "Move1": "Wing Attack",
+  "Move2": "Hurricane"
+}, {
+  "ID": 19,
+  "Move1": "Quick Attack",
+  "Move2": "Body Slam"
+}, {
+  "ID": 19,
+  "Move1": "Quick Attack",
+  "Move2": "Dig"
+}, {
+  "ID": 19,
+  "Move1": "Quick Attack",
+  "Move2": "Hyper Fang"
+}, {
+  "ID": 19,
+  "Move1": "Tackle",
+  "Move2": "Body Slam"
+}, {
+  "ID": 19,
+  "Move1": "Tackle",
+  "Move2": "Dig"
+}, {
+  "ID": 19,
+  "Move1": "Tackle",
+  "Move2": "Hyper Fang"
+}, {
+  "ID": 20,
+  "Move1": "Bite",
+  "Move2": "Dig"
+}, {
+  "ID": 20,
+  "Move1": "Bite",
+  "Move2": "Hyper Beam"
+}, {
+  "ID": 20,
+  "Move1": "Bite",
+  "Move2": "Hyper Fang"
+}, {
+  "ID": 20,
+  "Move1": "Quick Attack",
+  "Move2": "Dig"
+}, {
+  "ID": 20,
+  "Move1": "Quick Attack",
+  "Move2": "Hyper Beam"
+}, {
+  "ID": 20,
+  "Move1": "Quick Attack",
+  "Move2": "Hyper Fang"
+}, {
+  "ID": 21,
+  "Move1": "Peck",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 21,
+  "Move1": "Peck",
+  "Move2": "Drill Peck"
+}, {
+  "ID": 21,
+  "Move1": "Peck",
+  "Move2": "Twister"
+}, {
+  "ID": 21,
+  "Move1": "Quick Attack",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 21,
+  "Move1": "Quick Attack",
+  "Move2": "Drill Peck"
+}, {
+  "ID": 21,
+  "Move1": "Quick Attack",
+  "Move2": "Twister"
+}, {
+  "ID": 22,
+  "Move1": "Peck",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 22,
+  "Move1": "Peck",
+  "Move2": "Drill Run"
+}, {
+  "ID": 22,
+  "Move1": "Peck",
+  "Move2": "Twister"
+}, {
+  "ID": 22,
+  "Move1": "Steel Wing",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 22,
+  "Move1": "Steel Wing",
+  "Move2": "Drill Run"
+}, {
+  "ID": 22,
+  "Move1": "Steel Wing",
+  "Move2": "Twister"
+}, {
+  "ID": 23,
+  "Move1": "Acid",
+  "Move2": "Gunk Shot"
+}, {
+  "ID": 23,
+  "Move1": "Acid",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 23,
+  "Move1": "Acid",
+  "Move2": "Wrap"
+}, {
+  "ID": 23,
+  "Move1": "Poison Sting",
+  "Move2": "Gunk Shot"
+}, {
+  "ID": 23,
+  "Move1": "Poison Sting",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 23,
+  "Move1": "Poison Sting",
+  "Move2": "Wrap"
+}, {
+  "ID": 24,
+  "Move1": "Acid",
+  "Move2": "Dark Pulse"
+}, {
+  "ID": 24,
+  "Move1": "Acid",
+  "Move2": "Gunk Shot"
+}, {
+  "ID": 24,
+  "Move1": "Acid",
+  "Move2": "Sludge Wave"
+}, {
+  "ID": 24,
+  "Move1": "Bite",
+  "Move2": "Dark Pulse"
+}, {
+  "ID": 24,
+  "Move1": "Bite",
+  "Move2": "Gunk Shot"
+}, {
+  "ID": 24,
+  "Move1": "Bite",
+  "Move2": "Sludge Wave"
+}, {
+  "ID": 25,
+  "Move1": "Quick Attack",
+  "Move2": "Discharge"
+}, {
+  "ID": 25,
+  "Move1": "Quick Attack",
+  "Move2": "Thunder"
+}, {
+  "ID": 25,
+  "Move1": "Quick Attack",
+  "Move2": "Thunderbolt"
+}, {
+  "ID": 25,
+  "Move1": "Thunder Shock",
+  "Move2": "Discharge"
+}, {
+  "ID": 25,
+  "Move1": "Thunder Shock",
+  "Move2": "Thunder"
+}, {
+  "ID": 25,
+  "Move1": "Thunder Shock",
+  "Move2": "Thunderbolt"
+}, {
+  "ID": 26,
+  "Move1": "Spark",
+  "Move2": "Brick Break"
+}, {
+  "ID": 26,
+  "Move1": "Spark",
+  "Move2": "Thunder"
+}, {
+  "ID": 26,
+  "Move1": "Spark",
+  "Move2": "Thunder Punch"
+}, {
+  "ID": 26,
+  "Move1": "Thunder Shock",
+  "Move2": "Brick Break"
+}, {
+  "ID": 26,
+  "Move1": "Thunder Shock",
+  "Move2": "Thunder"
+}, {
+  "ID": 26,
+  "Move1": "Thunder Shock",
+  "Move2": "Thunder Punch"
+}, {
+  "ID": 27,
+  "Move1": "Mud Shot",
+  "Move2": "Dig"
+}, {
+  "ID": 27,
+  "Move1": "Mud Shot",
+  "Move2": "Rock Slide"
+}, {
+  "ID": 27,
+  "Move1": "Mud Shot",
+  "Move2": "Rock Tomb"
+}, {
+  "ID": 27,
+  "Move1": "Scratch",
+  "Move2": "Dig"
+}, {
+  "ID": 27,
+  "Move1": "Scratch",
+  "Move2": "Rock Slide"
+}, {
+  "ID": 27,
+  "Move1": "Scratch",
+  "Move2": "Rock Tomb"
+}, {
+  "ID": 28,
+  "Move1": "Metal Claw",
+  "Move2": "Bulldoze"
+}, {
+  "ID": 28,
+  "Move1": "Metal Claw",
+  "Move2": "Earthquake"
+}, {
+  "ID": 28,
+  "Move1": "Metal Claw",
+  "Move2": "Rock Tomb"
+}, {
+  "ID": 28,
+  "Move1": "Mud Shot",
+  "Move2": "Bulldoze"
+}, {
+  "ID": 28,
+  "Move1": "Mud Shot",
+  "Move2": "Earthquake"
+}, {
+  "ID": 28,
+  "Move1": "Mud Shot",
+  "Move2": "Rock Tomb"
+}, {
+  "ID": 29,
+  "Move1": "Bite",
+  "Move2": "Body Slam"
+}, {
+  "ID": 29,
+  "Move1": "Bite",
+  "Move2": "Poison Fang"
+}, {
+  "ID": 29,
+  "Move1": "Bite",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 29,
+  "Move1": "Poison Sting",
+  "Move2": "Body Slam"
+}, {
+  "ID": 29,
+  "Move1": "Poison Sting",
+  "Move2": "Poison Fang"
+}, {
+  "ID": 29,
+  "Move1": "Poison Sting",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 30,
+  "Move1": "Bite",
+  "Move2": "Dig"
+}, {
+  "ID": 30,
+  "Move1": "Bite",
+  "Move2": "Poison Fang"
+}, {
+  "ID": 30,
+  "Move1": "Bite",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 30,
+  "Move1": "Poison Sting",
+  "Move2": "Dig"
+}, {
+  "ID": 30,
+  "Move1": "Poison Sting",
+  "Move2": "Poison Fang"
+}, {
+  "ID": 30,
+  "Move1": "Poison Sting",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 31,
+  "Move1": "Bite",
+  "Move2": "Earthquake"
+}, {
+  "ID": 31,
+  "Move1": "Bite",
+  "Move2": "Sludge Wave"
+}, {
+  "ID": 31,
+  "Move1": "Bite",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 31,
+  "Move1": "Poison Jab",
+  "Move2": "Earthquake"
+}, {
+  "ID": 31,
+  "Move1": "Poison Jab",
+  "Move2": "Sludge Wave"
+}, {
+  "ID": 31,
+  "Move1": "Poison Jab",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 32,
+  "Move1": "Peck",
+  "Move2": "Body Slam"
+}, {
+  "ID": 32,
+  "Move1": "Peck",
+  "Move2": "Horn Attack"
+}, {
+  "ID": 32,
+  "Move1": "Peck",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 32,
+  "Move1": "Poison Sting",
+  "Move2": "Body Slam"
+}, {
+  "ID": 32,
+  "Move1": "Poison Sting",
+  "Move2": "Horn Attack"
+}, {
+  "ID": 32,
+  "Move1": "Poison Sting",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 33,
+  "Move1": "Poison Jab",
+  "Move2": "Dig"
+}, {
+  "ID": 33,
+  "Move1": "Poison Jab",
+  "Move2": "Horn Attack"
+}, {
+  "ID": 33,
+  "Move1": "Poison Jab",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 33,
+  "Move1": "Poison Sting",
+  "Move2": "Dig"
+}, {
+  "ID": 33,
+  "Move1": "Poison Sting",
+  "Move2": "Horn Attack"
+}, {
+  "ID": 33,
+  "Move1": "Poison Sting",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 34,
+  "Move1": "Fury Cutter",
+  "Move2": "Earthquake"
+}, {
+  "ID": 34,
+  "Move1": "Fury Cutter",
+  "Move2": "Megahorn"
+}, {
+  "ID": 34,
+  "Move1": "Fury Cutter",
+  "Move2": "Sludge Wave"
+}, {
+  "ID": 34,
+  "Move1": "Poison Jab",
+  "Move2": "Earthquake"
+}, {
+  "ID": 34,
+  "Move1": "Poison Jab",
+  "Move2": "Megahorn"
+}, {
+  "ID": 34,
+  "Move1": "Poison Jab",
+  "Move2": "Sludge Wave"
+}, {
+  "ID": 35,
+  "Move1": "Pound",
+  "Move2": "Body Slam"
+}, {
+  "ID": 35,
+  "Move1": "Pound",
+  "Move2": "Disarming Voice"
+}, {
+  "ID": 35,
+  "Move1": "Pound",
+  "Move2": "Moonblast"
+}, {
+  "ID": 35,
+  "Move1": "Zen Headbutt",
+  "Move2": "Body Slam"
+}, {
+  "ID": 35,
+  "Move1": "Zen Headbutt",
+  "Move2": "Disarming Voice"
+}, {
+  "ID": 35,
+  "Move1": "Zen Headbutt",
+  "Move2": "Moonblast"
+}, {
+  "ID": 36,
+  "Move1": "Pound",
+  "Move2": "Dazzling Gleam"
+}, {
+  "ID": 36,
+  "Move1": "Pound",
+  "Move2": "Moonblast"
+}, {
+  "ID": 36,
+  "Move1": "Pound",
+  "Move2": "Psychic"
+}, {
+  "ID": 36,
+  "Move1": "Zen Headbutt",
+  "Move2": "Dazzling Gleam"
+}, {
+  "ID": 36,
+  "Move1": "Zen Headbutt",
+  "Move2": "Moonblast"
+}, {
+  "ID": 36,
+  "Move1": "Zen Headbutt",
+  "Move2": "Psychic"
+}, {
+  "ID": 37,
+  "Move1": "Ember",
+  "Move2": "Body Slam"
+}, {
+  "ID": 37,
+  "Move1": "Ember",
+  "Move2": "Flame Charge"
+}, {
+  "ID": 37,
+  "Move1": "Ember",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 37,
+  "Move1": "Quick Attack",
+  "Move2": "Body Slam"
+}, {
+  "ID": 37,
+  "Move1": "Quick Attack",
+  "Move2": "Flame Charge"
+}, {
+  "ID": 37,
+  "Move1": "Quick Attack",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 38,
+  "Move1": "Ember",
+  "Move2": "Fire Blast"
+}, {
+  "ID": 38,
+  "Move1": "Ember",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 38,
+  "Move1": "Ember",
+  "Move2": "Heat Wave"
+}, {
+  "ID": 38,
+  "Move1": "Feint Attack",
+  "Move2": "Fire Blast"
+}, {
+  "ID": 38,
+  "Move1": "Feint Attack",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 38,
+  "Move1": "Feint Attack",
+  "Move2": "Heat Wave"
+}, {
+  "ID": 39,
+  "Move1": "Feint Attack",
+  "Move2": "Body Slam"
+}, {
+  "ID": 39,
+  "Move1": "Feint Attack",
+  "Move2": "Disarming Voice"
+}, {
+  "ID": 39,
+  "Move1": "Feint Attack",
+  "Move2": "Play Rough"
+}, {
+  "ID": 39,
+  "Move1": "Pound",
+  "Move2": "Body Slam"
+}, {
+  "ID": 39,
+  "Move1": "Pound",
+  "Move2": "Disarming Voice"
+}, {
+  "ID": 39,
+  "Move1": "Pound",
+  "Move2": "Play Rough"
+}, {
+  "ID": 40,
+  "Move1": "Feint Attack",
+  "Move2": "Dazzling Gleam"
+}, {
+  "ID": 40,
+  "Move1": "Feint Attack",
+  "Move2": "Hyper Beam"
+}, {
+  "ID": 40,
+  "Move1": "Feint Attack",
+  "Move2": "Play Rough"
+}, {
+  "ID": 40,
+  "Move1": "Pound",
+  "Move2": "Dazzling Gleam"
+}, {
+  "ID": 40,
+  "Move1": "Pound",
+  "Move2": "Hyper Beam"
+}, {
+  "ID": 40,
+  "Move1": "Pound",
+  "Move2": "Play Rough"
+}, {
+  "ID": 41,
+  "Move1": "Bite",
+  "Move2": "Air Cutter"
+}, {
+  "ID": 41,
+  "Move1": "Bite",
+  "Move2": "Poison Fang"
+}, {
+  "ID": 41,
+  "Move1": "Bite",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 41,
+  "Move1": "Quick Attack",
+  "Move2": "Air Cutter"
+}, {
+  "ID": 41,
+  "Move1": "Quick Attack",
+  "Move2": "Poison Fang"
+}, {
+  "ID": 41,
+  "Move1": "Quick Attack",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 42,
+  "Move1": "Bite",
+  "Move2": "Air Cutter"
+}, {
+  "ID": 42,
+  "Move1": "Bite",
+  "Move2": "Ominous Wind"
+}, {
+  "ID": 42,
+  "Move1": "Bite",
+  "Move2": "Poison Fang"
+}, {
+  "ID": 42,
+  "Move1": "Wing Attack",
+  "Move2": "Air Cutter"
+}, {
+  "ID": 42,
+  "Move1": "Wing Attack",
+  "Move2": "Ominous Wind"
+}, {
+  "ID": 42,
+  "Move1": "Wing Attack",
+  "Move2": "Poison Fang"
+}, {
+  "ID": 43,
+  "Move1": "Acid",
+  "Move2": "Moonblast"
+}, {
+  "ID": 43,
+  "Move1": "Acid",
+  "Move2": "Seed Bomb"
+}, {
+  "ID": 43,
+  "Move1": "Acid",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 43,
+  "Move1": "Razor Leaf",
+  "Move2": "Moonblast"
+}, {
+  "ID": 43,
+  "Move1": "Razor Leaf",
+  "Move2": "Seed Bomb"
+}, {
+  "ID": 43,
+  "Move1": "Razor Leaf",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 44,
+  "Move1": "Acid",
+  "Move2": "Moonblast"
+}, {
+  "ID": 44,
+  "Move1": "Acid",
+  "Move2": "Petal Blizzard"
+}, {
+  "ID": 44,
+  "Move1": "Acid",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 44,
+  "Move1": "Razor Leaf",
+  "Move2": "Moonblast"
+}, {
+  "ID": 44,
+  "Move1": "Razor Leaf",
+  "Move2": "Petal Blizzard"
+}, {
+  "ID": 44,
+  "Move1": "Razor Leaf",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 45,
+  "Move1": "Acid",
+  "Move2": "Moonblast"
+}, {
+  "ID": 45,
+  "Move1": "Acid",
+  "Move2": "Petal Blizzard"
+}, {
+  "ID": 45,
+  "Move1": "Acid",
+  "Move2": "Solar Beam"
+}, {
+  "ID": 45,
+  "Move1": "Razor Leaf",
+  "Move2": "Moonblast"
+}, {
+  "ID": 45,
+  "Move1": "Razor Leaf",
+  "Move2": "Petal Blizzard"
+}, {
+  "ID": 45,
+  "Move1": "Razor Leaf",
+  "Move2": "Solar Beam"
+}, {
+  "ID": 46,
+  "Move1": "Bug Bite",
+  "Move2": "Cross Poison"
+}, {
+  "ID": 46,
+  "Move1": "Bug Bite",
+  "Move2": "Seed Bomb"
+}, {
+  "ID": 46,
+  "Move1": "Bug Bite",
+  "Move2": "X-Scissor"
+}, {
+  "ID": 46,
+  "Move1": "Scratch",
+  "Move2": "Cross Poison"
+}, {
+  "ID": 46,
+  "Move1": "Scratch",
+  "Move2": "Seed Bomb"
+}, {
+  "ID": 46,
+  "Move1": "Scratch",
+  "Move2": "X-Scissor"
+}, {
+  "ID": 47,
+  "Move1": "Bug Bite",
+  "Move2": "Cross Poison"
+}, {
+  "ID": 47,
+  "Move1": "Bug Bite",
+  "Move2": "Solar Beam"
+}, {
+  "ID": 47,
+  "Move1": "Bug Bite",
+  "Move2": "X-Scissor"
+}, {
+  "ID": 47,
+  "Move1": "Fury Cutter",
+  "Move2": "Cross Poison"
+}, {
+  "ID": 47,
+  "Move1": "Fury Cutter",
+  "Move2": "Solar Beam"
+}, {
+  "ID": 47,
+  "Move1": "Fury Cutter",
+  "Move2": "X-Scissor"
+}, {
+  "ID": 48,
+  "Move1": "Bug Bite",
+  "Move2": "Poison Fang"
+}, {
+  "ID": 48,
+  "Move1": "Bug Bite",
+  "Move2": "Psybeam"
+}, {
+  "ID": 48,
+  "Move1": "Bug Bite",
+  "Move2": "Signal Beam"
+}, {
+  "ID": 48,
+  "Move1": "Confusion",
+  "Move2": "Poison Fang"
+}, {
+  "ID": 48,
+  "Move1": "Confusion",
+  "Move2": "Psybeam"
+}, {
+  "ID": 48,
+  "Move1": "Confusion",
+  "Move2": "Signal Beam"
+}, {
+  "ID": 49,
+  "Move1": "Bug Bite",
+  "Move2": "Bug Buzz"
+}, {
+  "ID": 49,
+  "Move1": "Bug Bite",
+  "Move2": "Poison Fang"
+}, {
+  "ID": 49,
+  "Move1": "Bug Bite",
+  "Move2": "Psychic"
+}, {
+  "ID": 49,
+  "Move1": "Confusion",
+  "Move2": "Bug Buzz"
+}, {
+  "ID": 49,
+  "Move1": "Confusion",
+  "Move2": "Poison Fang"
+}, {
+  "ID": 49,
+  "Move1": "Confusion",
+  "Move2": "Psychic"
+}, {
+  "ID": 50,
+  "Move1": "Mud Shot",
+  "Move2": "Dig"
+}, {
+  "ID": 50,
+  "Move1": "Mud Shot",
+  "Move2": "Mud Bomb"
+}, {
+  "ID": 50,
+  "Move1": "Mud Shot",
+  "Move2": "Rock Tomb"
+}, {
+  "ID": 50,
+  "Move1": "Scratch",
+  "Move2": "Dig"
+}, {
+  "ID": 50,
+  "Move1": "Scratch",
+  "Move2": "Mud Bomb"
+}, {
+  "ID": 50,
+  "Move1": "Scratch",
+  "Move2": "Rock Tomb"
+}, {
+  "ID": 51,
+  "Move1": "Mud Shot",
+  "Move2": "Earthquake"
+}, {
+  "ID": 51,
+  "Move1": "Mud Shot",
+  "Move2": "Mud Bomb"
+}, {
+  "ID": 51,
+  "Move1": "Mud Shot",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 51,
+  "Move1": "Sucker Punch",
+  "Move2": "Earthquake"
+}, {
+  "ID": 51,
+  "Move1": "Sucker Punch",
+  "Move2": "Mud Bomb"
+}, {
+  "ID": 51,
+  "Move1": "Sucker Punch",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 52,
+  "Move1": "Bite",
+  "Move2": "Body Slam"
+}, {
+  "ID": 52,
+  "Move1": "Bite",
+  "Move2": "Dark Pulse"
+}, {
+  "ID": 52,
+  "Move1": "Bite",
+  "Move2": "Night Slash"
+}, {
+  "ID": 52,
+  "Move1": "Scratch",
+  "Move2": "Body Slam"
+}, {
+  "ID": 52,
+  "Move1": "Scratch",
+  "Move2": "Dark Pulse"
+}, {
+  "ID": 52,
+  "Move1": "Scratch",
+  "Move2": "Night Slash"
+}, {
+  "ID": 53,
+  "Move1": "Feint Attack",
+  "Move2": "Night Slash"
+}, {
+  "ID": 53,
+  "Move1": "Feint Attack",
+  "Move2": "Play Rough"
+}, {
+  "ID": 53,
+  "Move1": "Feint Attack",
+  "Move2": "Power Gem"
+}, {
+  "ID": 53,
+  "Move1": "Scratch",
+  "Move2": "Night Slash"
+}, {
+  "ID": 53,
+  "Move1": "Scratch",
+  "Move2": "Play Rough"
+}, {
+  "ID": 53,
+  "Move1": "Scratch",
+  "Move2": "Power Gem"
+}, {
+  "ID": 54,
+  "Move1": "Water Gun",
+  "Move2": "Aqua Tail"
+}, {
+  "ID": 54,
+  "Move1": "Water Gun",
+  "Move2": "Cross Chop"
+}, {
+  "ID": 54,
+  "Move1": "Water Gun",
+  "Move2": "Psybeam"
+}, {
+  "ID": 54,
+  "Move1": "Zen Headbutt",
+  "Move2": "Aqua Tail"
+}, {
+  "ID": 54,
+  "Move1": "Zen Headbutt",
+  "Move2": "Cross Chop"
+}, {
+  "ID": 54,
+  "Move1": "Zen Headbutt",
+  "Move2": "Psybeam"
+}, {
+  "ID": 55,
+  "Move1": "Confusion",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 55,
+  "Move1": "Confusion",
+  "Move2": "Ice Beam"
+}, {
+  "ID": 55,
+  "Move1": "Confusion",
+  "Move2": "Psychic"
+}, {
+  "ID": 55,
+  "Move1": "Water Gun",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 55,
+  "Move1": "Water Gun",
+  "Move2": "Ice Beam"
+}, {
+  "ID": 55,
+  "Move1": "Water Gun",
+  "Move2": "Psychic"
+}, {
+  "ID": 56,
+  "Move1": "Karate Chop",
+  "Move2": "Brick Break"
+}, {
+  "ID": 56,
+  "Move1": "Karate Chop",
+  "Move2": "Cross Chop"
+}, {
+  "ID": 56,
+  "Move1": "Karate Chop",
+  "Move2": "Low Sweep"
+}, {
+  "ID": 56,
+  "Move1": "Scratch",
+  "Move2": "Brick Break"
+}, {
+  "ID": 56,
+  "Move1": "Scratch",
+  "Move2": "Cross Chop"
+}, {
+  "ID": 56,
+  "Move1": "Scratch",
+  "Move2": "Low Sweep"
+}, {
+  "ID": 57,
+  "Move1": "Karate Chop",
+  "Move2": "Cross Chop"
+}, {
+  "ID": 57,
+  "Move1": "Karate Chop",
+  "Move2": "Low Sweep"
+}, {
+  "ID": 57,
+  "Move1": "Karate Chop",
+  "Move2": "Night Slash"
+}, {
+  "ID": 57,
+  "Move1": "Low Kick",
+  "Move2": "Cross Chop"
+}, {
+  "ID": 57,
+  "Move1": "Low Kick",
+  "Move2": "Low Sweep"
+}, {
+  "ID": 57,
+  "Move1": "Low Kick",
+  "Move2": "Night Slash"
+}, {
+  "ID": 58,
+  "Move1": "Bite",
+  "Move2": "Body Slam"
+}, {
+  "ID": 58,
+  "Move1": "Bite",
+  "Move2": "Flame Wheel"
+}, {
+  "ID": 58,
+  "Move1": "Bite",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 58,
+  "Move1": "Ember",
+  "Move2": "Body Slam"
+}, {
+  "ID": 58,
+  "Move1": "Ember",
+  "Move2": "Flame Wheel"
+}, {
+  "ID": 58,
+  "Move1": "Ember",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 59,
+  "Move1": "Bite",
+  "Move2": "Bulldoze"
+}, {
+  "ID": 59,
+  "Move1": "Bite",
+  "Move2": "Fire Blast"
+}, {
+  "ID": 59,
+  "Move1": "Bite",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 59,
+  "Move1": "Fire Fang",
+  "Move2": "Bulldoze"
+}, {
+  "ID": 59,
+  "Move1": "Fire Fang",
+  "Move2": "Fire Blast"
+}, {
+  "ID": 59,
+  "Move1": "Fire Fang",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 60,
+  "Move1": "Bubble",
+  "Move2": "Body Slam"
+}, {
+  "ID": 60,
+  "Move1": "Bubble",
+  "Move2": "Bubble Beam"
+}, {
+  "ID": 60,
+  "Move1": "Bubble",
+  "Move2": "Mud Bomb"
+}, {
+  "ID": 60,
+  "Move1": "Mud Shot",
+  "Move2": "Body Slam"
+}, {
+  "ID": 60,
+  "Move1": "Mud Shot",
+  "Move2": "Bubble Beam"
+}, {
+  "ID": 60,
+  "Move1": "Mud Shot",
+  "Move2": "Mud Bomb"
+}, {
+  "ID": 61,
+  "Move1": "Bubble",
+  "Move2": "Bubble Beam"
+}, {
+  "ID": 61,
+  "Move1": "Bubble",
+  "Move2": "Mud Bomb"
+}, {
+  "ID": 61,
+  "Move1": "Bubble",
+  "Move2": "Scald"
+}, {
+  "ID": 61,
+  "Move1": "Mud Shot",
+  "Move2": "Bubble Beam"
+}, {
+  "ID": 61,
+  "Move1": "Mud Shot",
+  "Move2": "Mud Bomb"
+}, {
+  "ID": 61,
+  "Move1": "Mud Shot",
+  "Move2": "Scald"
+}, {
+  "ID": 62,
+  "Move1": "Bubble",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 62,
+  "Move1": "Bubble",
+  "Move2": "Ice Punch"
+}, {
+  "ID": 62,
+  "Move1": "Bubble",
+  "Move2": "Submission"
+}, {
+  "ID": 62,
+  "Move1": "Mud Shot",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 62,
+  "Move1": "Mud Shot",
+  "Move2": "Ice Punch"
+}, {
+  "ID": 62,
+  "Move1": "Mud Shot",
+  "Move2": "Submission"
+}, {
+  "ID": 63,
+  "Move1": "Zen Headbutt",
+  "Move2": "Psyshock"
+}, {
+  "ID": 63,
+  "Move1": "Zen Headbutt",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 63,
+  "Move1": "Zen Headbutt",
+  "Move2": "Signal Beam"
+}, {
+  "ID": 64,
+  "Move1": "Confusion",
+  "Move2": "Dazzling Gleam"
+}, {
+  "ID": 64,
+  "Move1": "Confusion",
+  "Move2": "Psybeam"
+}, {
+  "ID": 64,
+  "Move1": "Confusion",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 64,
+  "Move1": "Psycho Cut",
+  "Move2": "Dazzling Gleam"
+}, {
+  "ID": 64,
+  "Move1": "Psycho Cut",
+  "Move2": "Psybeam"
+}, {
+  "ID": 64,
+  "Move1": "Psycho Cut",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 65,
+  "Move1": "Confusion",
+  "Move2": "Dazzling Gleam"
+}, {
+  "ID": 65,
+  "Move1": "Confusion",
+  "Move2": "Psychic"
+}, {
+  "ID": 65,
+  "Move1": "Confusion",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 65,
+  "Move1": "Psycho Cut",
+  "Move2": "Dazzling Gleam"
+}, {
+  "ID": 65,
+  "Move1": "Psycho Cut",
+  "Move2": "Psychic"
+}, {
+  "ID": 65,
+  "Move1": "Psycho Cut",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 66,
+  "Move1": "Karate Chop",
+  "Move2": "Brick Break"
+}, {
+  "ID": 66,
+  "Move1": "Karate Chop",
+  "Move2": "Cross Chop"
+}, {
+  "ID": 66,
+  "Move1": "Karate Chop",
+  "Move2": "Low Sweep"
+}, {
+  "ID": 66,
+  "Move1": "Low Kick",
+  "Move2": "Brick Break"
+}, {
+  "ID": 66,
+  "Move1": "Low Kick",
+  "Move2": "Cross Chop"
+}, {
+  "ID": 66,
+  "Move1": "Low Kick",
+  "Move2": "Low Sweep"
+}, {
+  "ID": 67,
+  "Move1": "Karate Chop",
+  "Move2": "Brick Break"
+}, {
+  "ID": 67,
+  "Move1": "Karate Chop",
+  "Move2": "Cross Chop"
+}, {
+  "ID": 67,
+  "Move1": "Karate Chop",
+  "Move2": "Submission"
+}, {
+  "ID": 67,
+  "Move1": "Low Kick",
+  "Move2": "Brick Break"
+}, {
+  "ID": 67,
+  "Move1": "Low Kick",
+  "Move2": "Cross Chop"
+}, {
+  "ID": 67,
+  "Move1": "Low Kick",
+  "Move2": "Submission"
+}, {
+  "ID": 68,
+  "Move1": "Bullet Punch",
+  "Move2": "Cross Chop"
+}, {
+  "ID": 68,
+  "Move1": "Bullet Punch",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 68,
+  "Move1": "Bullet Punch",
+  "Move2": "Submission"
+}, {
+  "ID": 68,
+  "Move1": "Karate Chop",
+  "Move2": "Cross Chop"
+}, {
+  "ID": 68,
+  "Move1": "Karate Chop",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 68,
+  "Move1": "Karate Chop",
+  "Move2": "Submission"
+}, {
+  "ID": 69,
+  "Move1": "Acid",
+  "Move2": "Power Whip"
+}, {
+  "ID": 69,
+  "Move1": "Acid",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 69,
+  "Move1": "Acid",
+  "Move2": "Wrap"
+}, {
+  "ID": 69,
+  "Move1": "Vine Whip",
+  "Move2": "Power Whip"
+}, {
+  "ID": 69,
+  "Move1": "Vine Whip",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 69,
+  "Move1": "Vine Whip",
+  "Move2": "Wrap"
+}, {
+  "ID": 70,
+  "Move1": "Acid",
+  "Move2": "Power Whip"
+}, {
+  "ID": 70,
+  "Move1": "Acid",
+  "Move2": "Seed Bomb"
+}, {
+  "ID": 70,
+  "Move1": "Acid",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 70,
+  "Move1": "Razor Leaf",
+  "Move2": "Power Whip"
+}, {
+  "ID": 70,
+  "Move1": "Razor Leaf",
+  "Move2": "Seed Bomb"
+}, {
+  "ID": 70,
+  "Move1": "Razor Leaf",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 71,
+  "Move1": "Acid",
+  "Move2": "Leaf Blade"
+}, {
+  "ID": 71,
+  "Move1": "Acid",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 71,
+  "Move1": "Acid",
+  "Move2": "Solar Beam"
+}, {
+  "ID": 71,
+  "Move1": "Razor Leaf",
+  "Move2": "Leaf Blade"
+}, {
+  "ID": 71,
+  "Move1": "Razor Leaf",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 71,
+  "Move1": "Razor Leaf",
+  "Move2": "Solar Beam"
+}, {
+  "ID": 72,
+  "Move1": "Bubble",
+  "Move2": "Bubble Beam"
+}, {
+  "ID": 72,
+  "Move1": "Bubble",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 72,
+  "Move1": "Bubble",
+  "Move2": "Wrap"
+}, {
+  "ID": 72,
+  "Move1": "Poison Sting",
+  "Move2": "Bubble Beam"
+}, {
+  "ID": 72,
+  "Move1": "Poison Sting",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 72,
+  "Move1": "Poison Sting",
+  "Move2": "Wrap"
+}, {
+  "ID": 73,
+  "Move1": "Acid",
+  "Move2": "Blizzard"
+}, {
+  "ID": 73,
+  "Move1": "Acid",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 73,
+  "Move1": "Acid",
+  "Move2": "Sludge Wave"
+}, {
+  "ID": 73,
+  "Move1": "Poison Jab",
+  "Move2": "Blizzard"
+}, {
+  "ID": 73,
+  "Move1": "Poison Jab",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 73,
+  "Move1": "Poison Jab",
+  "Move2": "Sludge Wave"
+}, {
+  "ID": 74,
+  "Move1": "Rock Throw",
+  "Move2": "Dig"
+}, {
+  "ID": 74,
+  "Move1": "Rock Throw",
+  "Move2": "Rock Slide"
+}, {
+  "ID": 74,
+  "Move1": "Rock Throw",
+  "Move2": "Rock Tomb"
+}, {
+  "ID": 74,
+  "Move1": "Tackle",
+  "Move2": "Dig"
+}, {
+  "ID": 74,
+  "Move1": "Tackle",
+  "Move2": "Rock Slide"
+}, {
+  "ID": 74,
+  "Move1": "Tackle",
+  "Move2": "Rock Tomb"
+}, {
+  "ID": 75,
+  "Move1": "Mud Shot",
+  "Move2": "Dig"
+}, {
+  "ID": 75,
+  "Move1": "Mud Shot",
+  "Move2": "Rock Slide"
+}, {
+  "ID": 75,
+  "Move1": "Mud Shot",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 75,
+  "Move1": "Rock Throw",
+  "Move2": "Dig"
+}, {
+  "ID": 75,
+  "Move1": "Rock Throw",
+  "Move2": "Rock Slide"
+}, {
+  "ID": 75,
+  "Move1": "Rock Throw",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 76,
+  "Move1": "Mud Shot",
+  "Move2": "Ancient Power"
+}, {
+  "ID": 76,
+  "Move1": "Mud Shot",
+  "Move2": "Earthquake"
+}, {
+  "ID": 76,
+  "Move1": "Mud Shot",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 76,
+  "Move1": "Rock Throw",
+  "Move2": "Ancient Power"
+}, {
+  "ID": 76,
+  "Move1": "Rock Throw",
+  "Move2": "Earthquake"
+}, {
+  "ID": 76,
+  "Move1": "Rock Throw",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 77,
+  "Move1": "Ember",
+  "Move2": "Fire Blast"
+}, {
+  "ID": 77,
+  "Move1": "Ember",
+  "Move2": "Flame Charge"
+}, {
+  "ID": 77,
+  "Move1": "Ember",
+  "Move2": "Flame Wheel"
+}, {
+  "ID": 77,
+  "Move1": "Tackle",
+  "Move2": "Fire Blast"
+}, {
+  "ID": 77,
+  "Move1": "Tackle",
+  "Move2": "Flame Charge"
+}, {
+  "ID": 77,
+  "Move1": "Tackle",
+  "Move2": "Flame Wheel"
+}, {
+  "ID": 78,
+  "Move1": "Ember",
+  "Move2": "Drill Run"
+}, {
+  "ID": 78,
+  "Move1": "Ember",
+  "Move2": "Fire Blast"
+}, {
+  "ID": 78,
+  "Move1": "Ember",
+  "Move2": "Heat Wave"
+}, {
+  "ID": 78,
+  "Move1": "Low Kick",
+  "Move2": "Drill Run"
+}, {
+  "ID": 78,
+  "Move1": "Low Kick",
+  "Move2": "Fire Blast"
+}, {
+  "ID": 78,
+  "Move1": "Low Kick",
+  "Move2": "Heat Wave"
+}, {
+  "ID": 79,
+  "Move1": "Confusion",
+  "Move2": "Psychic"
+}, {
+  "ID": 79,
+  "Move1": "Confusion",
+  "Move2": "Psyshock"
+}, {
+  "ID": 79,
+  "Move1": "Confusion",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 79,
+  "Move1": "Water Gun",
+  "Move2": "Psychic"
+}, {
+  "ID": 79,
+  "Move1": "Water Gun",
+  "Move2": "Psyshock"
+}, {
+  "ID": 79,
+  "Move1": "Water Gun",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 80,
+  "Move1": "Confusion",
+  "Move2": "Ice Beam"
+}, {
+  "ID": 80,
+  "Move1": "Confusion",
+  "Move2": "Psychic"
+}, {
+  "ID": 80,
+  "Move1": "Confusion",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 80,
+  "Move1": "Water Gun",
+  "Move2": "Ice Beam"
+}, {
+  "ID": 80,
+  "Move1": "Water Gun",
+  "Move2": "Psychic"
+}, {
+  "ID": 80,
+  "Move1": "Water Gun",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 81,
+  "Move1": "Spark",
+  "Move2": "Discharge"
+}, {
+  "ID": 81,
+  "Move1": "Spark",
+  "Move2": "Magnet Bomb"
+}, {
+  "ID": 81,
+  "Move1": "Spark",
+  "Move2": "Thunderbolt"
+}, {
+  "ID": 81,
+  "Move1": "Thunder Shock",
+  "Move2": "Discharge"
+}, {
+  "ID": 81,
+  "Move1": "Thunder Shock",
+  "Move2": "Magnet Bomb"
+}, {
+  "ID": 81,
+  "Move1": "Thunder Shock",
+  "Move2": "Thunderbolt"
+}, {
+  "ID": 82,
+  "Move1": "Spark",
+  "Move2": "Discharge"
+}, {
+  "ID": 82,
+  "Move1": "Spark",
+  "Move2": "Flash Cannon"
+}, {
+  "ID": 82,
+  "Move1": "Spark",
+  "Move2": "Magnet Bomb"
+}, {
+  "ID": 82,
+  "Move1": "Thunder Shock",
+  "Move2": "Discharge"
+}, {
+  "ID": 82,
+  "Move1": "Thunder Shock",
+  "Move2": "Flash Cannon"
+}, {
+  "ID": 82,
+  "Move1": "Thunder Shock",
+  "Move2": "Magnet Bomb"
+}, {
+  "ID": 83,
+  "Move1": "Cut",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 83,
+  "Move1": "Cut",
+  "Move2": "Air Cutter"
+}, {
+  "ID": 83,
+  "Move1": "Cut",
+  "Move2": "Leaf Blade"
+}, {
+  "ID": 83,
+  "Move1": "Fury Cutter",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 83,
+  "Move1": "Fury Cutter",
+  "Move2": "Air Cutter"
+}, {
+  "ID": 83,
+  "Move1": "Fury Cutter",
+  "Move2": "Leaf Blade"
+}, {
+  "ID": 84,
+  "Move1": "Peck",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 84,
+  "Move1": "Peck",
+  "Move2": "Drill Peck"
+}, {
+  "ID": 84,
+  "Move1": "Peck",
+  "Move2": "Swift"
+}, {
+  "ID": 84,
+  "Move1": "Quick Attack",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 84,
+  "Move1": "Quick Attack",
+  "Move2": "Drill Peck"
+}, {
+  "ID": 84,
+  "Move1": "Quick Attack",
+  "Move2": "Swift"
+}, {
+  "ID": 85,
+  "Move1": "Feint Attack",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 85,
+  "Move1": "Feint Attack",
+  "Move2": "Air Cutter"
+}, {
+  "ID": 85,
+  "Move1": "Feint Attack",
+  "Move2": "Drill Peck"
+}, {
+  "ID": 85,
+  "Move1": "Steel Wing",
+  "Move2": "Aerial Ace"
+}, {
+  "ID": 85,
+  "Move1": "Steel Wing",
+  "Move2": "Air Cutter"
+}, {
+  "ID": 85,
+  "Move1": "Steel Wing",
+  "Move2": "Drill Peck"
+}, {
+  "ID": 86,
+  "Move1": "Ice Shard",
+  "Move2": "Aqua Jet"
+}, {
+  "ID": 86,
+  "Move1": "Ice Shard",
+  "Move2": "Aqua Tail"
+}, {
+  "ID": 86,
+  "Move1": "Ice Shard",
+  "Move2": "Icy Wind"
+}, {
+  "ID": 86,
+  "Move1": "Water Gun",
+  "Move2": "Aqua Jet"
+}, {
+  "ID": 86,
+  "Move1": "Water Gun",
+  "Move2": "Aqua Tail"
+}, {
+  "ID": 86,
+  "Move1": "Water Gun",
+  "Move2": "Icy Wind"
+}, {
+  "ID": 87,
+  "Move1": "Frost Breath",
+  "Move2": "Aqua Jet"
+}, {
+  "ID": 87,
+  "Move1": "Frost Breath",
+  "Move2": "Blizzard"
+}, {
+  "ID": 87,
+  "Move1": "Frost Breath",
+  "Move2": "Icy Wind"
+}, {
+  "ID": 87,
+  "Move1": "Ice Shard",
+  "Move2": "Aqua Jet"
+}, {
+  "ID": 87,
+  "Move1": "Ice Shard",
+  "Move2": "Blizzard"
+}, {
+  "ID": 87,
+  "Move1": "Ice Shard",
+  "Move2": "Icy Wind"
+}, {
+  "ID": 88,
+  "Move1": "Acid",
+  "Move2": "Mud Bomb"
+}, {
+  "ID": 88,
+  "Move1": "Acid",
+  "Move2": "Sludge"
+}, {
+  "ID": 88,
+  "Move1": "Acid",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 88,
+  "Move1": "Mud Slap",
+  "Move2": "Mud Bomb"
+}, {
+  "ID": 88,
+  "Move1": "Mud Slap",
+  "Move2": "Sludge"
+}, {
+  "ID": 88,
+  "Move1": "Mud Slap",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 89,
+  "Move1": "Acid",
+  "Move2": "Dark Pulse"
+}, {
+  "ID": 89,
+  "Move1": "Acid",
+  "Move2": "Gunk Shot"
+}, {
+  "ID": 89,
+  "Move1": "Acid",
+  "Move2": "Sludge Wave"
+}, {
+  "ID": 89,
+  "Move1": "Poison Jab",
+  "Move2": "Dark Pulse"
+}, {
+  "ID": 89,
+  "Move1": "Poison Jab",
+  "Move2": "Gunk Shot"
+}, {
+  "ID": 89,
+  "Move1": "Poison Jab",
+  "Move2": "Sludge Wave"
+}, {
+  "ID": 90,
+  "Move1": "Ice Shard",
+  "Move2": "Bubble Beam"
+}, {
+  "ID": 90,
+  "Move1": "Ice Shard",
+  "Move2": "Icy Wind"
+}, {
+  "ID": 90,
+  "Move1": "Ice Shard",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 90,
+  "Move1": "Tackle",
+  "Move2": "Bubble Beam"
+}, {
+  "ID": 90,
+  "Move1": "Tackle",
+  "Move2": "Icy Wind"
+}, {
+  "ID": 90,
+  "Move1": "Tackle",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 91,
+  "Move1": "Frost Breath",
+  "Move2": "Blizzard"
+}, {
+  "ID": 91,
+  "Move1": "Frost Breath",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 91,
+  "Move1": "Frost Breath",
+  "Move2": "Icy Wind"
+}, {
+  "ID": 91,
+  "Move1": "Ice Shard",
+  "Move2": "Blizzard"
+}, {
+  "ID": 91,
+  "Move1": "Ice Shard",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 91,
+  "Move1": "Ice Shard",
+  "Move2": "Icy Wind"
+}, {
+  "ID": 92,
+  "Move1": "Lick",
+  "Move2": "Dark Pulse"
+}, {
+  "ID": 92,
+  "Move1": "Lick",
+  "Move2": "Ominous Wind"
+}, {
+  "ID": 92,
+  "Move1": "Lick",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 92,
+  "Move1": "Sucker Punch",
+  "Move2": "Dark Pulse"
+}, {
+  "ID": 92,
+  "Move1": "Sucker Punch",
+  "Move2": "Ominous Wind"
+}, {
+  "ID": 92,
+  "Move1": "Sucker Punch",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 93,
+  "Move1": "Lick",
+  "Move2": "Dark Pulse"
+}, {
+  "ID": 93,
+  "Move1": "Lick",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 93,
+  "Move1": "Lick",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 93,
+  "Move1": "Shadow Claw",
+  "Move2": "Dark Pulse"
+}, {
+  "ID": 93,
+  "Move1": "Shadow Claw",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 93,
+  "Move1": "Shadow Claw",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 94,
+  "Move1": "Shadow Claw",
+  "Move2": "Dark Pulse"
+}, {
+  "ID": 94,
+  "Move1": "Shadow Claw",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 94,
+  "Move1": "Shadow Claw",
+  "Move2": "Sludge Wave"
+}, {
+  "ID": 94,
+  "Move1": "Sucker Punch",
+  "Move2": "Dark Pulse"
+}, {
+  "ID": 94,
+  "Move1": "Sucker Punch",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 94,
+  "Move1": "Sucker Punch",
+  "Move2": "Sludge Wave"
+}, {
+  "ID": 95,
+  "Move1": "Rock Throw",
+  "Move2": "Iron Head"
+}, {
+  "ID": 95,
+  "Move1": "Rock Throw",
+  "Move2": "Rock Slide"
+}, {
+  "ID": 95,
+  "Move1": "Rock Throw",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 95,
+  "Move1": "Tackle",
+  "Move2": "Iron Head"
+}, {
+  "ID": 95,
+  "Move1": "Tackle",
+  "Move2": "Rock Slide"
+}, {
+  "ID": 95,
+  "Move1": "Tackle",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 96,
+  "Move1": "Confusion",
+  "Move2": "Psybeam"
+}, {
+  "ID": 96,
+  "Move1": "Confusion",
+  "Move2": "Psychic"
+}, {
+  "ID": 96,
+  "Move1": "Confusion",
+  "Move2": "Psyshock"
+}, {
+  "ID": 96,
+  "Move1": "Pound",
+  "Move2": "Psybeam"
+}, {
+  "ID": 96,
+  "Move1": "Pound",
+  "Move2": "Psychic"
+}, {
+  "ID": 96,
+  "Move1": "Pound",
+  "Move2": "Psyshock"
+}, {
+  "ID": 97,
+  "Move1": "Confusion",
+  "Move2": "Psychic"
+}, {
+  "ID": 97,
+  "Move1": "Confusion",
+  "Move2": "Psyshock"
+}, {
+  "ID": 97,
+  "Move1": "Confusion",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 97,
+  "Move1": "Zen Headbutt",
+  "Move2": "Psychic"
+}, {
+  "ID": 97,
+  "Move1": "Zen Headbutt",
+  "Move2": "Psyshock"
+}, {
+  "ID": 97,
+  "Move1": "Zen Headbutt",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 98,
+  "Move1": "Bubble",
+  "Move2": "Bubble Beam"
+}, {
+  "ID": 98,
+  "Move1": "Bubble",
+  "Move2": "Vice Grip"
+}, {
+  "ID": 98,
+  "Move1": "Bubble",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 98,
+  "Move1": "Mud Shot",
+  "Move2": "Bubble Beam"
+}, {
+  "ID": 98,
+  "Move1": "Mud Shot",
+  "Move2": "Vice Grip"
+}, {
+  "ID": 98,
+  "Move1": "Mud Shot",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 99,
+  "Move1": "Metal Claw",
+  "Move2": "Vice Grip"
+}, {
+  "ID": 99,
+  "Move1": "Metal Claw",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 99,
+  "Move1": "Metal Claw",
+  "Move2": "X-Scissor"
+}, {
+  "ID": 99,
+  "Move1": "Mud Shot",
+  "Move2": "Vice Grip"
+}, {
+  "ID": 99,
+  "Move1": "Mud Shot",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 99,
+  "Move1": "Mud Shot",
+  "Move2": "X-Scissor"
+}, {
+  "ID": 100,
+  "Move1": "Spark",
+  "Move2": "Discharge"
+}, {
+  "ID": 100,
+  "Move1": "Spark",
+  "Move2": "Signal Beam"
+}, {
+  "ID": 100,
+  "Move1": "Spark",
+  "Move2": "Thunderbolt"
+}, {
+  "ID": 100,
+  "Move1": "Tackle",
+  "Move2": "Discharge"
+}, {
+  "ID": 100,
+  "Move1": "Tackle",
+  "Move2": "Signal Beam"
+}, {
+  "ID": 100,
+  "Move1": "Tackle",
+  "Move2": "Thunderbolt"
+}, {
+  "ID": 101,
+  "Move1": "Spark",
+  "Move2": "Discharge"
+}, {
+  "ID": 101,
+  "Move1": "Spark",
+  "Move2": "Hyper Beam"
+}, {
+  "ID": 101,
+  "Move1": "Spark",
+  "Move2": "Thunderbolt"
+}, {
+  "ID": 101,
+  "Move1": "Tackle",
+  "Move2": "Discharge"
+}, {
+  "ID": 101,
+  "Move1": "Tackle",
+  "Move2": "Hyper Beam"
+}, {
+  "ID": 101,
+  "Move1": "Tackle",
+  "Move2": "Thunderbolt"
+}, {
+  "ID": 102,
+  "Move1": "Confusion",
+  "Move2": "Ancient Power"
+}, {
+  "ID": 102,
+  "Move1": "Confusion",
+  "Move2": "Psychic"
+}, {
+  "ID": 102,
+  "Move1": "Confusion",
+  "Move2": "Seed Bomb"
+}, {
+  "ID": 103,
+  "Move1": "Confusion",
+  "Move2": "Psychic"
+}, {
+  "ID": 103,
+  "Move1": "Confusion",
+  "Move2": "Seed Bomb"
+}, {
+  "ID": 103,
+  "Move1": "Confusion",
+  "Move2": "Solar Beam"
+}, {
+  "ID": 103,
+  "Move1": "Zen Headbutt",
+  "Move2": "Psychic"
+}, {
+  "ID": 103,
+  "Move1": "Zen Headbutt",
+  "Move2": "Seed Bomb"
+}, {
+  "ID": 103,
+  "Move1": "Zen Headbutt",
+  "Move2": "Solar Beam"
+}, {
+  "ID": 104,
+  "Move1": "Mud Slap",
+  "Move2": "Bone Club"
+}, {
+  "ID": 104,
+  "Move1": "Mud Slap",
+  "Move2": "Bulldoze"
+}, {
+  "ID": 104,
+  "Move1": "Mud Slap",
+  "Move2": "Dig"
+}, {
+  "ID": 104,
+  "Move1": "Rock Smash",
+  "Move2": "Bone Club"
+}, {
+  "ID": 104,
+  "Move1": "Rock Smash",
+  "Move2": "Bulldoze"
+}, {
+  "ID": 104,
+  "Move1": "Rock Smash",
+  "Move2": "Dig"
+}, {
+  "ID": 105,
+  "Move1": "Mud Slap",
+  "Move2": "Bone Club"
+}, {
+  "ID": 105,
+  "Move1": "Mud Slap",
+  "Move2": "Dig"
+}, {
+  "ID": 105,
+  "Move1": "Mud Slap",
+  "Move2": "Earthquake"
+}, {
+  "ID": 105,
+  "Move1": "Rock Smash",
+  "Move2": "Bone Club"
+}, {
+  "ID": 105,
+  "Move1": "Rock Smash",
+  "Move2": "Dig"
+}, {
+  "ID": 105,
+  "Move1": "Rock Smash",
+  "Move2": "Earthquake"
+}, {
+  "ID": 106,
+  "Move1": "Low Kick",
+  "Move2": "Low Sweep"
+}, {
+  "ID": 106,
+  "Move1": "Low Kick",
+  "Move2": "Stomp"
+}, {
+  "ID": 106,
+  "Move1": "Low Kick",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 106,
+  "Move1": "Rock Smash",
+  "Move2": "Low Sweep"
+}, {
+  "ID": 106,
+  "Move1": "Rock Smash",
+  "Move2": "Stomp"
+}, {
+  "ID": 106,
+  "Move1": "Rock Smash",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 107,
+  "Move1": "Bullet Punch",
+  "Move2": "Fire Punch"
+}, {
+  "ID": 107,
+  "Move1": "Bullet Punch",
+  "Move2": "Ice Punch"
+}, {
+  "ID": 107,
+  "Move1": "Bullet Punch",
+  "Move2": "Thunder Punch"
+}, {
+  "ID": 107,
+  "Move1": "Rock Smash",
+  "Move2": "Fire Punch"
+}, {
+  "ID": 107,
+  "Move1": "Rock Smash",
+  "Move2": "Ice Punch"
+}, {
+  "ID": 107,
+  "Move1": "Rock Smash",
+  "Move2": "Thunder Punch"
+}, {
+  "ID": 108,
+  "Move1": "Lick",
+  "Move2": "Hyper Beam"
+}, {
+  "ID": 108,
+  "Move1": "Lick",
+  "Move2": "Power Whip"
+}, {
+  "ID": 108,
+  "Move1": "Lick",
+  "Move2": "Stomp"
+}, {
+  "ID": 108,
+  "Move1": "Zen Headbutt",
+  "Move2": "Hyper Beam"
+}, {
+  "ID": 108,
+  "Move1": "Zen Headbutt",
+  "Move2": "Power Whip"
+}, {
+  "ID": 108,
+  "Move1": "Zen Headbutt",
+  "Move2": "Stomp"
+}, {
+  "ID": 109,
+  "Move1": "Acid",
+  "Move2": "Dark Pulse"
+}, {
+  "ID": 109,
+  "Move1": "Acid",
+  "Move2": "Sludge"
+}, {
+  "ID": 109,
+  "Move1": "Acid",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 109,
+  "Move1": "Tackle",
+  "Move2": "Dark Pulse"
+}, {
+  "ID": 109,
+  "Move1": "Tackle",
+  "Move2": "Sludge"
+}, {
+  "ID": 109,
+  "Move1": "Tackle",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 110,
+  "Move1": "Acid",
+  "Move2": "Dark Pulse"
+}, {
+  "ID": 110,
+  "Move1": "Acid",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 110,
+  "Move1": "Acid",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 110,
+  "Move1": "Tackle",
+  "Move2": "Dark Pulse"
+}, {
+  "ID": 110,
+  "Move1": "Tackle",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 110,
+  "Move1": "Tackle",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 111,
+  "Move1": "Mud Slap",
+  "Move2": "Bulldoze"
+}, {
+  "ID": 111,
+  "Move1": "Mud Slap",
+  "Move2": "Horn Attack"
+}, {
+  "ID": 111,
+  "Move1": "Mud Slap",
+  "Move2": "Stomp"
+}, {
+  "ID": 111,
+  "Move1": "Rock Smash",
+  "Move2": "Bulldoze"
+}, {
+  "ID": 111,
+  "Move1": "Rock Smash",
+  "Move2": "Horn Attack"
+}, {
+  "ID": 111,
+  "Move1": "Rock Smash",
+  "Move2": "Stomp"
+}, {
+  "ID": 112,
+  "Move1": "Mud Slap",
+  "Move2": "Earthquake"
+}, {
+  "ID": 112,
+  "Move1": "Mud Slap",
+  "Move2": "Megahorn"
+}, {
+  "ID": 112,
+  "Move1": "Mud Slap",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 112,
+  "Move1": "Rock Smash",
+  "Move2": "Earthquake"
+}, {
+  "ID": 112,
+  "Move1": "Rock Smash",
+  "Move2": "Megahorn"
+}, {
+  "ID": 112,
+  "Move1": "Rock Smash",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 113,
+  "Move1": "Pound",
+  "Move2": "Dazzling Gleam"
+}, {
+  "ID": 113,
+  "Move1": "Pound",
+  "Move2": "Psybeam"
+}, {
+  "ID": 113,
+  "Move1": "Pound",
+  "Move2": "Psychic"
+}, {
+  "ID": 113,
+  "Move1": "Zen Headbutt",
+  "Move2": "Dazzling Gleam"
+}, {
+  "ID": 113,
+  "Move1": "Zen Headbutt",
+  "Move2": "Psybeam"
+}, {
+  "ID": 113,
+  "Move1": "Zen Headbutt",
+  "Move2": "Psychic"
+}, {
+  "ID": 114,
+  "Move1": "Vine Whip",
+  "Move2": "Power Whip"
+}, {
+  "ID": 114,
+  "Move1": "Vine Whip",
+  "Move2": "Sludge Bomb"
+}, {
+  "ID": 114,
+  "Move1": "Vine Whip",
+  "Move2": "Solar Beam"
+}, {
+  "ID": 115,
+  "Move1": "Low Kick",
+  "Move2": "Brick Break"
+}, {
+  "ID": 115,
+  "Move1": "Low Kick",
+  "Move2": "Earthquake"
+}, {
+  "ID": 115,
+  "Move1": "Low Kick",
+  "Move2": "Stomp"
+}, {
+  "ID": 115,
+  "Move1": "Mud Slap",
+  "Move2": "Brick Break"
+}, {
+  "ID": 115,
+  "Move1": "Mud Slap",
+  "Move2": "Earthquake"
+}, {
+  "ID": 115,
+  "Move1": "Mud Slap",
+  "Move2": "Stomp"
+}, {
+  "ID": 116,
+  "Move1": "Bubble",
+  "Move2": "Bubble Beam"
+}, {
+  "ID": 116,
+  "Move1": "Bubble",
+  "Move2": "Dragon Pulse"
+}, {
+  "ID": 116,
+  "Move1": "Bubble",
+  "Move2": "Flash Cannon"
+}, {
+  "ID": 116,
+  "Move1": "Water Gun",
+  "Move2": "Bubble Beam"
+}, {
+  "ID": 116,
+  "Move1": "Water Gun",
+  "Move2": "Dragon Pulse"
+}, {
+  "ID": 116,
+  "Move1": "Water Gun",
+  "Move2": "Flash Cannon"
+}, {
+  "ID": 117,
+  "Move1": "Dragon Breath",
+  "Move2": "Blizzard"
+}, {
+  "ID": 117,
+  "Move1": "Dragon Breath",
+  "Move2": "Dragon Pulse"
+}, {
+  "ID": 117,
+  "Move1": "Dragon Breath",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 117,
+  "Move1": "Water Gun",
+  "Move2": "Blizzard"
+}, {
+  "ID": 117,
+  "Move1": "Water Gun",
+  "Move2": "Dragon Pulse"
+}, {
+  "ID": 117,
+  "Move1": "Water Gun",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 118,
+  "Move1": "Mud Shot",
+  "Move2": "Aqua Tail"
+}, {
+  "ID": 118,
+  "Move1": "Mud Shot",
+  "Move2": "Horn Attack"
+}, {
+  "ID": 118,
+  "Move1": "Mud Shot",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 118,
+  "Move1": "Peck",
+  "Move2": "Aqua Tail"
+}, {
+  "ID": 118,
+  "Move1": "Peck",
+  "Move2": "Horn Attack"
+}, {
+  "ID": 118,
+  "Move1": "Peck",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 119,
+  "Move1": "Peck",
+  "Move2": "Drill Run"
+}, {
+  "ID": 119,
+  "Move1": "Peck",
+  "Move2": "Icy Wind"
+}, {
+  "ID": 119,
+  "Move1": "Peck",
+  "Move2": "Megahorn"
+}, {
+  "ID": 119,
+  "Move1": "Poison Jab",
+  "Move2": "Drill Run"
+}, {
+  "ID": 119,
+  "Move1": "Poison Jab",
+  "Move2": "Icy Wind"
+}, {
+  "ID": 119,
+  "Move1": "Poison Jab",
+  "Move2": "Megahorn"
+}, {
+  "ID": 120,
+  "Move1": "Quick Attack",
+  "Move2": "Bubble Beam"
+}, {
+  "ID": 120,
+  "Move1": "Quick Attack",
+  "Move2": "Power Gem"
+}, {
+  "ID": 120,
+  "Move1": "Quick Attack",
+  "Move2": "Swift"
+}, {
+  "ID": 120,
+  "Move1": "Water Gun",
+  "Move2": "Bubble Beam"
+}, {
+  "ID": 120,
+  "Move1": "Water Gun",
+  "Move2": "Power Gem"
+}, {
+  "ID": 120,
+  "Move1": "Water Gun",
+  "Move2": "Swift"
+}, {
+  "ID": 121,
+  "Move1": "Quick Attack",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 121,
+  "Move1": "Quick Attack",
+  "Move2": "Power Gem"
+}, {
+  "ID": 121,
+  "Move1": "Quick Attack",
+  "Move2": "Psybeam"
+}, {
+  "ID": 121,
+  "Move1": "Water Gun",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 121,
+  "Move1": "Water Gun",
+  "Move2": "Power Gem"
+}, {
+  "ID": 121,
+  "Move1": "Water Gun",
+  "Move2": "Psybeam"
+}, {
+  "ID": 122,
+  "Move1": "Confusion",
+  "Move2": "Psybeam"
+}, {
+  "ID": 122,
+  "Move1": "Confusion",
+  "Move2": "Psychic"
+}, {
+  "ID": 122,
+  "Move1": "Confusion",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 122,
+  "Move1": "Zen Headbutt",
+  "Move2": "Psybeam"
+}, {
+  "ID": 122,
+  "Move1": "Zen Headbutt",
+  "Move2": "Psychic"
+}, {
+  "ID": 122,
+  "Move1": "Zen Headbutt",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 123,
+  "Move1": "Fury Cutter",
+  "Move2": "Bug Buzz"
+}, {
+  "ID": 123,
+  "Move1": "Fury Cutter",
+  "Move2": "Night Slash"
+}, {
+  "ID": 123,
+  "Move1": "Fury Cutter",
+  "Move2": "X-Scissor"
+}, {
+  "ID": 123,
+  "Move1": "Steel Wing",
+  "Move2": "Bug Buzz"
+}, {
+  "ID": 123,
+  "Move1": "Steel Wing",
+  "Move2": "Night Slash"
+}, {
+  "ID": 123,
+  "Move1": "Steel Wing",
+  "Move2": "X-Scissor"
+}, {
+  "ID": 124,
+  "Move1": "Frost Breath",
+  "Move2": "Draining Kiss"
+}, {
+  "ID": 124,
+  "Move1": "Frost Breath",
+  "Move2": "Ice Punch"
+}, {
+  "ID": 124,
+  "Move1": "Frost Breath",
+  "Move2": "Psyshock"
+}, {
+  "ID": 124,
+  "Move1": "Pound",
+  "Move2": "Draining Kiss"
+}, {
+  "ID": 124,
+  "Move1": "Pound",
+  "Move2": "Ice Punch"
+}, {
+  "ID": 124,
+  "Move1": "Pound",
+  "Move2": "Psyshock"
+}, {
+  "ID": 125,
+  "Move1": "Low Kick",
+  "Move2": "Thunder"
+}, {
+  "ID": 125,
+  "Move1": "Low Kick",
+  "Move2": "Thunder Punch"
+}, {
+  "ID": 125,
+  "Move1": "Low Kick",
+  "Move2": "Thunderbolt"
+}, {
+  "ID": 125,
+  "Move1": "Thunder Shock",
+  "Move2": "Thunder"
+}, {
+  "ID": 125,
+  "Move1": "Thunder Shock",
+  "Move2": "Thunder Punch"
+}, {
+  "ID": 125,
+  "Move1": "Thunder Shock",
+  "Move2": "Thunderbolt"
+}, {
+  "ID": 126,
+  "Move1": "Ember",
+  "Move2": "Fire Blast"
+}, {
+  "ID": 126,
+  "Move1": "Ember",
+  "Move2": "Fire Punch"
+}, {
+  "ID": 126,
+  "Move1": "Ember",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 126,
+  "Move1": "Karate Chop",
+  "Move2": "Fire Blast"
+}, {
+  "ID": 126,
+  "Move1": "Karate Chop",
+  "Move2": "Fire Punch"
+}, {
+  "ID": 126,
+  "Move1": "Karate Chop",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 127,
+  "Move1": "Fury Cutter",
+  "Move2": "Submission"
+}, {
+  "ID": 127,
+  "Move1": "Fury Cutter",
+  "Move2": "Vice Grip"
+}, {
+  "ID": 127,
+  "Move1": "Fury Cutter",
+  "Move2": "X-Scissor"
+}, {
+  "ID": 127,
+  "Move1": "Rock Smash",
+  "Move2": "Submission"
+}, {
+  "ID": 127,
+  "Move1": "Rock Smash",
+  "Move2": "Vice Grip"
+}, {
+  "ID": 127,
+  "Move1": "Rock Smash",
+  "Move2": "X-Scissor"
+}, {
+  "ID": 128,
+  "Move1": "Tackle",
+  "Move2": "Earthquake"
+}, {
+  "ID": 128,
+  "Move1": "Tackle",
+  "Move2": "Horn Attack"
+}, {
+  "ID": 128,
+  "Move1": "Tackle",
+  "Move2": "Iron Head"
+}, {
+  "ID": 128,
+  "Move1": "Zen Headbutt",
+  "Move2": "Earthquake"
+}, {
+  "ID": 128,
+  "Move1": "Zen Headbutt",
+  "Move2": "Horn Attack"
+}, {
+  "ID": 128,
+  "Move1": "Zen Headbutt",
+  "Move2": "Iron Head"
+}, {
+  "ID": 129,
+  "Move1": "Splash",
+  "Move2": "Struggle"
+}, {
+  "ID": 130,
+  "Move1": "Bite",
+  "Move2": "Dragon Pulse"
+}, {
+  "ID": 130,
+  "Move1": "Bite",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 130,
+  "Move1": "Bite",
+  "Move2": "Twister"
+}, {
+  "ID": 130,
+  "Move1": "Dragon Breath",
+  "Move2": "Dragon Pulse"
+}, {
+  "ID": 130,
+  "Move1": "Dragon Breath",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 130,
+  "Move1": "Dragon Breath",
+  "Move2": "Twister"
+}, {
+  "ID": 131,
+  "Move1": "Frost Breath",
+  "Move2": "Blizzard"
+}, {
+  "ID": 131,
+  "Move1": "Frost Breath",
+  "Move2": "Dragon Pulse"
+}, {
+  "ID": 131,
+  "Move1": "Frost Breath",
+  "Move2": "Ice Beam"
+}, {
+  "ID": 131,
+  "Move1": "Ice Shard",
+  "Move2": "Blizzard"
+}, {
+  "ID": 131,
+  "Move1": "Ice Shard",
+  "Move2": "Dragon Pulse"
+}, {
+  "ID": 131,
+  "Move1": "Ice Shard",
+  "Move2": "Ice Beam"
+}, {
+  "ID": 132,
+  "Move1": "Pound",
+  "Move2": "Struggle"
+}, {
+  "ID": 133,
+  "Move1": "Quick Attack",
+  "Move2": "Body Slam"
+}, {
+  "ID": 133,
+  "Move1": "Quick Attack",
+  "Move2": "Dig"
+}, {
+  "ID": 133,
+  "Move1": "Quick Attack",
+  "Move2": "Swift"
+}, {
+  "ID": 133,
+  "Move1": "Tackle",
+  "Move2": "Body Slam"
+}, {
+  "ID": 133,
+  "Move1": "Tackle",
+  "Move2": "Dig"
+}, {
+  "ID": 133,
+  "Move1": "Tackle",
+  "Move2": "Swift"
+}, {
+  "ID": 134,
+  "Move1": "Water Gun",
+  "Move2": "Aqua Tail"
+}, {
+  "ID": 134,
+  "Move1": "Water Gun",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 134,
+  "Move1": "Water Gun",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 135,
+  "Move1": "Thunder Shock",
+  "Move2": "Discharge"
+}, {
+  "ID": 135,
+  "Move1": "Thunder Shock",
+  "Move2": "Thunder"
+}, {
+  "ID": 135,
+  "Move1": "Thunder Shock",
+  "Move2": "Thunderbolt"
+}, {
+  "ID": 136,
+  "Move1": "Ember",
+  "Move2": "Fire Blast"
+}, {
+  "ID": 136,
+  "Move1": "Ember",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 136,
+  "Move1": "Ember",
+  "Move2": "Heat Wave"
+}, {
+  "ID": 137,
+  "Move1": "Quick Attack",
+  "Move2": "Discharge"
+}, {
+  "ID": 137,
+  "Move1": "Quick Attack",
+  "Move2": "Psybeam"
+}, {
+  "ID": 137,
+  "Move1": "Quick Attack",
+  "Move2": "Signal Beam"
+}, {
+  "ID": 137,
+  "Move1": "Tackle",
+  "Move2": "Discharge"
+}, {
+  "ID": 137,
+  "Move1": "Tackle",
+  "Move2": "Psybeam"
+}, {
+  "ID": 137,
+  "Move1": "Tackle",
+  "Move2": "Signal Beam"
+}, {
+  "ID": 138,
+  "Move1": "Mud Shot",
+  "Move2": "Ancient Power"
+}, {
+  "ID": 138,
+  "Move1": "Mud Shot",
+  "Move2": "Brine"
+}, {
+  "ID": 138,
+  "Move1": "Mud Shot",
+  "Move2": "Rock Tomb"
+}, {
+  "ID": 138,
+  "Move1": "Water Gun",
+  "Move2": "Ancient Power"
+}, {
+  "ID": 138,
+  "Move1": "Water Gun",
+  "Move2": "Brine"
+}, {
+  "ID": 138,
+  "Move1": "Water Gun",
+  "Move2": "Rock Tomb"
+}, {
+  "ID": 139,
+  "Move1": "Rock Throw",
+  "Move2": "Ancient Power"
+}, {
+  "ID": 139,
+  "Move1": "Rock Throw",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 139,
+  "Move1": "Rock Throw",
+  "Move2": "Rock Slide"
+}, {
+  "ID": 139,
+  "Move1": "Water Gun",
+  "Move2": "Ancient Power"
+}, {
+  "ID": 139,
+  "Move1": "Water Gun",
+  "Move2": "Hydro Pump"
+}, {
+  "ID": 139,
+  "Move1": "Water Gun",
+  "Move2": "Rock Slide"
+}, {
+  "ID": 140,
+  "Move1": "Mud Shot",
+  "Move2": "Ancient Power"
+}, {
+  "ID": 140,
+  "Move1": "Mud Shot",
+  "Move2": "Aqua Jet"
+}, {
+  "ID": 140,
+  "Move1": "Mud Shot",
+  "Move2": "Rock Tomb"
+}, {
+  "ID": 140,
+  "Move1": "Scratch",
+  "Move2": "Ancient Power"
+}, {
+  "ID": 140,
+  "Move1": "Scratch",
+  "Move2": "Aqua Jet"
+}, {
+  "ID": 140,
+  "Move1": "Scratch",
+  "Move2": "Rock Tomb"
+}, {
+  "ID": 141,
+  "Move1": "Fury Cutter",
+  "Move2": "Ancient Power"
+}, {
+  "ID": 141,
+  "Move1": "Fury Cutter",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 141,
+  "Move1": "Fury Cutter",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 141,
+  "Move1": "Mud Shot",
+  "Move2": "Ancient Power"
+}, {
+  "ID": 141,
+  "Move1": "Mud Shot",
+  "Move2": "Stone Edge"
+}, {
+  "ID": 141,
+  "Move1": "Mud Shot",
+  "Move2": "Water Pulse"
+}, {
+  "ID": 142,
+  "Move1": "Bite",
+  "Move2": "Ancient Power"
+}, {
+  "ID": 142,
+  "Move1": "Bite",
+  "Move2": "Hyper Beam"
+}, {
+  "ID": 142,
+  "Move1": "Bite",
+  "Move2": "Iron Head"
+}, {
+  "ID": 142,
+  "Move1": "Steel Wing",
+  "Move2": "Ancient Power"
+}, {
+  "ID": 142,
+  "Move1": "Steel Wing",
+  "Move2": "Hyper Beam"
+}, {
+  "ID": 142,
+  "Move1": "Steel Wing",
+  "Move2": "Iron Head"
+}, {
+  "ID": 143,
+  "Move1": "Lick",
+  "Move2": "Body Slam"
+}, {
+  "ID": 143,
+  "Move1": "Lick",
+  "Move2": "Earthquake"
+}, {
+  "ID": 143,
+  "Move1": "Lick",
+  "Move2": "Hyper Beam"
+}, {
+  "ID": 143,
+  "Move1": "Zen Headbutt",
+  "Move2": "Body Slam"
+}, {
+  "ID": 143,
+  "Move1": "Zen Headbutt",
+  "Move2": "Earthquake"
+}, {
+  "ID": 143,
+  "Move1": "Zen Headbutt",
+  "Move2": "Hyper Beam"
+}, {
+  "ID": 144,
+  "Move1": "Frost Breath",
+  "Move2": "Blizzard"
+}, {
+  "ID": 144,
+  "Move1": "Frost Breath",
+  "Move2": "Ice Beam"
+}, {
+  "ID": 144,
+  "Move1": "Frost Breath",
+  "Move2": "Icy Wind"
+}, {
+  "ID": 145,
+  "Move1": "Thunder Shock",
+  "Move2": "Discharge"
+}, {
+  "ID": 145,
+  "Move1": "Thunder Shock",
+  "Move2": "Thunder"
+}, {
+  "ID": 145,
+  "Move1": "Thunder Shock",
+  "Move2": "Thunderbolt"
+}, {
+  "ID": 146,
+  "Move1": "Ember",
+  "Move2": "Fire Blast"
+}, {
+  "ID": 146,
+  "Move1": "Ember",
+  "Move2": "Flamethrower"
+}, {
+  "ID": 146,
+  "Move1": "Ember",
+  "Move2": "Heat Wave"
+}, {
+  "ID": 147,
+  "Move1": "Dragon Breath",
+  "Move2": "Aqua Tail"
+}, {
+  "ID": 147,
+  "Move1": "Dragon Breath",
+  "Move2": "Twister"
+}, {
+  "ID": 147,
+  "Move1": "Dragon Breath",
+  "Move2": "Wrap"
+}, {
+  "ID": 148,
+  "Move1": "Dragon Breath",
+  "Move2": "Aqua Tail"
+}, {
+  "ID": 148,
+  "Move1": "Dragon Breath",
+  "Move2": "Dragon Pulse"
+}, {
+  "ID": 148,
+  "Move1": "Dragon Breath",
+  "Move2": "Wrap"
+}, {
+  "ID": 149,
+  "Move1": "Dragon Breath",
+  "Move2": "Dragon Claw"
+}, {
+  "ID": 149,
+  "Move1": "Dragon Breath",
+  "Move2": "Dragon Pulse"
+}, {
+  "ID": 149,
+  "Move1": "Dragon Breath",
+  "Move2": "Hyper Beam"
+}, {
+  "ID": 149,
+  "Move1": "Steel Wing",
+  "Move2": "Dragon Claw"
+}, {
+  "ID": 149,
+  "Move1": "Steel Wing",
+  "Move2": "Dragon Pulse"
+}, {
+  "ID": 149,
+  "Move1": "Steel Wing",
+  "Move2": "Hyper Beam"
+}, {
+  "ID": 150,
+  "Move1": "Confusion",
+  "Move2": "Hyper Beam"
+}, {
+  "ID": 150,
+  "Move1": "Confusion",
+  "Move2": "Psychic"
+}, {
+  "ID": 150,
+  "Move1": "Confusion",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 150,
+  "Move1": "Psycho Cut",
+  "Move2": "Hyper Beam"
+}, {
+  "ID": 150,
+  "Move1": "Psycho Cut",
+  "Move2": "Psychic"
+}, {
+  "ID": 150,
+  "Move1": "Psycho Cut",
+  "Move2": "Shadow Ball"
+}, {
+  "ID": 151,
+  "Move1": "Pound",
+  "Move2": "Psychic"
+}]
