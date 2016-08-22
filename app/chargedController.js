@@ -31,14 +31,14 @@
 					var critArray = [];
 					var dodgeWindowArray = [];
 					var durationArray = [];
-					var NRGCostArray = [];
+					var nRGArray = [];
 					var pwArray = [];
 
 					for(var i = 0; i < chargedMovesLength; i++) {
 						critArray.push(Number(vm.chargedMoves[i].Crit));
 						dodgeWindowArray.push(vm.chargedMoves[i].DodgeWindow);
 						durationArray.push(vm.chargedMoves[i].Duration);
-						NRGCostArray.push(vm.chargedMoves[i].NRGCost);
+						nRGArray.push(vm.chargedMoves[i].NRG);
 						pwArray.push(vm.chargedMoves[i].PW);
 					}
 
@@ -48,15 +48,15 @@
 					vm.dodgeWindowMin = Math.min.apply(null, dodgeWindowArray);
 					vm.durationMax = Math.max.apply(null, durationArray);
 					vm.durationMin = Math.min.apply(null, durationArray);
-					vm.NRGCostMax = Math.max.apply(null, NRGCostArray);
-					vm.NRGCostMin = Math.min.apply(null, NRGCostArray);
+					vm.nRGMax = Math.max.apply(null, nRGArray);
+					vm.nRGMin = Math.min.apply(null, nRGArray);
 					vm.pwMax = Math.max.apply(null, pwArray);
 					vm.pwMin = Math.min.apply(null, pwArray);
 
 					vm.critAvg = average(critArray);
 					vm.dodgeWindowAvg = average(dodgeWindowArray);
 					vm.durationAvg = average(durationArray);
-					vm.NRGCostAvg = average(NRGCostArray);
+					vm.nRGAvg = average(nRGArray);
 					vm.pwAvg = average(pwArray);
 				});
 		}

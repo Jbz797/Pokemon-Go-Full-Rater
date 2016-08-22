@@ -23,11 +23,12 @@ table {
   border-spacing: 0;
   border: 2px solid black;
   margin: 5% auto;
+  width: 100%;
 }
 
 table th,
 table td {
-  padding: 4px 8px;
+  padding: 4px 0;
   text-align: center;
 }
 
@@ -38,7 +39,8 @@ table td {
 table th {
   cursor: pointer;
   position: relative;
-  padding: 6px 10px;
+  padding: 6px 0;
+  min-width: 32px;
 }
 
 table .tablesort-asc,
@@ -90,7 +92,7 @@ table tr:last-child {
 }
 
 table tr:last-child td {
-  padding: 6px 12px;
+  padding: 6px 0;
 }
 
 table tr:last-child td:first-child {
